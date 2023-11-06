@@ -116,7 +116,7 @@ class LSTMEncoder(Seq2SeqEncoder):
         # Embed tokens and apply dropout
         batch_size, src_time_steps = src_tokens.size()
         if self.is_cuda:
-            src_tokens =  utils.move_to_cuda(src_tokens)
+            src_tokens = utils.move_to_cuda(src_tokens)
         src_embeddings = self.embedding(src_tokens)
         _src_embeddings = F.dropout(src_embeddings, p=self.dropout_in, training=self.training)
 
@@ -156,10 +156,6 @@ class AttentionLayer(nn.Module):
         self.context_plus_hidden_projection = nn.Linear(input_dims + output_dims, output_dims, bias=False)
 
     def forward(self, tgt_input, encoder_out, src_mask):
-        # tgt_input has shape = [batch_size, input_dims]
-        # encoder_out has shape = [src_time_steps, batch_size, output_dims]
-        # src_mask has shape = [src_time_steps, batch_size]
-
         # Get attention scores
         encoder_out = encoder_out.transpose(1, 0)
         attn_scores = self.score(tgt_input, encoder_out)
@@ -224,8 +220,10 @@ class LSTMDecoder(Seq2SeqDecoder):
         self.use_lexical_model = use_lexical_model
         if self.use_lexical_model:
             # __LEXICAL: Add parts of decoder architecture corresponding to the LEXICAL MODEL here
-            pass
-            # TODO: --------------------------------------------------------------------- /CUT
+            # for the lexical model, we use the implementation of
+            # https://github.com/s1879281/Lexical-NMT/tree/c8887b3988233041545d5539269b4e37be2e3343
+            self.lexical_context_projection = nn.Linear(embed_dim, embed_dim, bias=False)
+            self.final_lexical_projection = nn.Linear(embed_dim, len(dictionary))
 
     def forward(self, tgt_inputs, encoder_out, incremental_state=None):
         """ Performs the forward pass through the instantiated model. """
@@ -291,9 +289,10 @@ class LSTMDecoder(Seq2SeqDecoder):
 
                 if self.use_lexical_model:
                     # __LEXICAL: Compute and collect LEXICAL MODEL context vectors here
-                    # TODO: --------------------------------------------------------------------- CUT
-                    pass
-                    # TODO: --------------------------------------------------------------------- /CUT
+                    lexical_context = torch.tanh(torch.bmm(step_attn_weights.unsqueeze(dim=1),
+                                                           src_embeddings.transpose(0, 1)).squeeze(dim=1))
+                    lexical_contexts.append(
+                        torch.tanh(self.lexical_context_projection(lexical_context)) + lexical_context)
 
             input_feed = F.dropout(input_feed, p=self.dropout_out, training=self.training)
             rnn_outputs.append(input_feed)
@@ -313,9 +312,9 @@ class LSTMDecoder(Seq2SeqDecoder):
 
         if self.use_lexical_model:
             # __LEXICAL: Incorporate the LEXICAL MODEL into the prediction of target tokens here
-            pass
-            # TODO: --------------------------------------------------------------------- /CUT
-
+            lexical_contexts = torch.cat(lexical_contexts, dim=0).view(tgt_time_steps, batch_size, self.embed_dim)
+            lexical_contexts = lexical_contexts.transpose(0, 1)
+            decoder_output += self.final_lexical_projection(lexical_contexts)
 
         return decoder_output, attn_weights
 
