@@ -1,0 +1,1500 @@
+ID: 0, Rank: 0, Sentence: I &apos;m going to be here .
+ID: 0, Rank: 1, Sentence: I &apos;m going to be here to be here .
+ID: 0, Rank: 2, Sentence: I &apos;m going to be here to be here for myself .
+ID: 1, Rank: 0, Sentence: I &apos;m afraid that you won &apos;t be back to the right place .
+ID: 1, Rank: 1, Sentence: I &apos;m afraid that you won &apos;t be back to the place .
+ID: 1, Rank: 2, Sentence: I &apos;m afraid that you won &apos;t be back to the right place for .
+ID: 2, Rank: 0, Sentence: do I take the door ?
+ID: 2, Rank: 1, Sentence: do I close the door ?
+ID: 2, Rank: 2, Sentence: do I have the door ?
+ID: 3, Rank: 0, Sentence: he got back his mother down his mother .
+ID: 3, Rank: 1, Sentence: he got back his mother down his teacher .
+ID: 3, Rank: 2, Sentence: he got back his mother down his drink .
+ID: 4, Rank: 0, Sentence: he is more than all the other people every day .
+ID: 4, Rank: 1, Sentence: he is more than all the other people every year .
+ID: 4, Rank: 2, Sentence: he is more than all the other people have boys .
+ID: 5, Rank: 0, Sentence: I &apos;d like to talk to you .
+ID: 5, Rank: 1, Sentence: I &apos;d like to talk to them for that .
+ID: 5, Rank: 2, Sentence: I &apos;d like to talk to them with it .
+ID: 6, Rank: 0, Sentence: I don &apos;t want to talk about wine .
+ID: 6, Rank: 1, Sentence: I don &apos;t want to drink wine .
+ID: 6, Rank: 2, Sentence: I don &apos;t want to talk to wine .
+ID: 7, Rank: 0, Sentence: his house is on his house way in the station ?
+ID: 7, Rank: 1, Sentence: his house is on his house way to the station ?
+ID: 7, Rank: 2, Sentence: his house is on his house way to go ?
+ID: 8, Rank: 0, Sentence: Tom is more than me than me .
+ID: 8, Rank: 1, Sentence: Tom is more than me .
+ID: 8, Rank: 2, Sentence: Tom is more than me more than me .
+ID: 9, Rank: 0, Sentence: there is no one .
+ID: 9, Rank: 1, Sentence: there is no one of the .
+ID: 9, Rank: 2, Sentence: there is no one of the got .
+ID: 10, Rank: 0, Sentence: Tom would call and get back into Tom .
+ID: 10, Rank: 1, Sentence: Tom would call and get back into the old .
+ID: 10, Rank: 2, Sentence: Tom would call and get back into the old .
+ID: 11, Rank: 0, Sentence: does he have an movie ?
+ID: 11, Rank: 1, Sentence: does he have a movie from one out ?
+ID: 11, Rank: 2, Sentence: does he have a movie in an computer ?
+ID: 12, Rank: 0, Sentence: he is going to know as I will find that I &apos;m in charge .
+ID: 12, Rank: 1, Sentence: he is going to know as I will find that I &apos;m right now .
+ID: 12, Rank: 2, Sentence: he is going to know as I will find that I &apos;d find there .
+ID: 13, Rank: 0, Sentence: he turned on his turn down .
+ID: 13, Rank: 1, Sentence: he turned on his turn down .
+ID: 13, Rank: 2, Sentence: he turned on his turn back to his car .
+ID: 14, Rank: 0, Sentence: I &apos;m very baby in school .
+ID: 14, Rank: 1, Sentence: I &apos;m very baby about me very free .
+ID: 14, Rank: 2, Sentence: I &apos;m very baby about me very free .
+ID: 15, Rank: 0, Sentence: Tom doesn &apos;t like the right .
+ID: 15, Rank: 1, Sentence: Tom doesn &apos;t like the way Tom doesn &apos;t like him .
+ID: 15, Rank: 2, Sentence: Tom doesn &apos;t like the way Tom doesn &apos;t like that .
+ID: 16, Rank: 0, Sentence: women want to take some people of something .
+ID: 16, Rank: 1, Sentence: women want to take some people of friends .
+ID: 16, Rank: 2, Sentence: women want to make a new trying from homework .
+ID: 17, Rank: 0, Sentence: thank you will be anything , I &apos;ll be .
+ID: 17, Rank: 1, Sentence: thank you will be anything , I &apos;ll be thanks .
+ID: 17, Rank: 2, Sentence: thank you will be anything , I will be right for it .
+ID: 18, Rank: 0, Sentence: he decided to buy his mind to that .
+ID: 18, Rank: 1, Sentence: he decided to buy his mind to that door .
+ID: 18, Rank: 2, Sentence: he decided to buy his mind to that door .
+ID: 19, Rank: 0, Sentence: the room has been going to the end of the company .
+ID: 19, Rank: 1, Sentence: the room has been going to the end of the hour .
+ID: 19, Rank: 2, Sentence: the room has been going to the end of now at an hurry .
+ID: 20, Rank: 0, Sentence: they don &apos;t don &apos;t care so long time .
+ID: 20, Rank: 1, Sentence: they don &apos;t don &apos;t care so long .
+ID: 20, Rank: 2, Sentence: they don &apos;t don &apos;t care so long long .
+ID: 21, Rank: 0, Sentence: I &apos;m happy , because you &apos;re happy .
+ID: 21, Rank: 1, Sentence: I &apos;m happy , because you &apos;re happy , because you &apos;re here .
+ID: 21, Rank: 2, Sentence: I &apos;m happy , because you &apos;re happy , because you &apos;re here because you &apos;re here .
+ID: 22, Rank: 0, Sentence: you have to learn to learn to learn to learn to you .
+ID: 22, Rank: 1, Sentence: you have to learn to learn to learn to learn to you about it .
+ID: 22, Rank: 2, Sentence: you have to learn to learn to learn to learn to you about this .
+ID: 23, Rank: 0, Sentence: let &apos;s have a will get up to it .
+ID: 23, Rank: 1, Sentence: let &apos;s have a will get up to it ?
+ID: 23, Rank: 2, Sentence: let &apos;s have a will get up to it ?
+ID: 24, Rank: 0, Sentence: you &apos;re lucky to have a job .
+ID: 24, Rank: 1, Sentence: you &apos;re lucky to have an job .
+ID: 24, Rank: 2, Sentence: you &apos;re lucky to have a job now .
+ID: 25, Rank: 0, Sentence: it &apos;s not , because he &apos;s not as the the snow than him .
+ID: 25, Rank: 1, Sentence: it &apos;s not , because he &apos;s not as the the man I am looking .
+ID: 25, Rank: 2, Sentence: it &apos;s not , because he &apos;s not as the the man I am looking .
+ID: 26, Rank: 0, Sentence: I &apos;ve never been a only one only . I would have a only one of an to go to a out of the body .
+ID: 26, Rank: 1, Sentence: I &apos;ve never been a only one only . I would have a only one of an to go to a out of the body in Japanese .
+ID: 26, Rank: 2, Sentence: I &apos;ve never been a only one only . I would have a only one of an to go to a out of the body in the feel to get a which I will take out of a of cake .
+ID: 27, Rank: 0, Sentence: it makes me up !
+ID: 27, Rank: 1, Sentence: it makes me up ! I
+ID: 27, Rank: 2, Sentence: it gives me !
+ID: 28, Rank: 0, Sentence: I learned French before the French before to go to bed .
+ID: 28, Rank: 1, Sentence: I learned French before the French before to go to work .
+ID: 28, Rank: 2, Sentence: I learned French before the French before to go to go about .
+ID: 29, Rank: 0, Sentence: you &apos;re up , isn &apos;t you ?
+ID: 29, Rank: 1, Sentence: you &apos;re up , don &apos;t you ?
+ID: 29, Rank: 2, Sentence: you &apos;re up , didn &apos;t you ?
+ID: 30, Rank: 0, Sentence: the little girl was nothing because anything from cry .
+ID: 30, Rank: 1, Sentence: the little girl was nothing because anything from nothing , .
+ID: 30, Rank: 2, Sentence: the little girl was nothing because any other day that .
+ID: 31, Rank: 0, Sentence: I &apos;m glad as I &apos;m up .
+ID: 31, Rank: 1, Sentence: I &apos;m glad as I am wrong .
+ID: 31, Rank: 2, Sentence: I &apos;m glad as I &apos;m in .
+ID: 32, Rank: 0, Sentence: did you already met it last day ?
+ID: 32, Rank: 1, Sentence: did you already met it on ?
+ID: 32, Rank: 2, Sentence: did you already met it last morning ?
+ID: 33, Rank: 0, Sentence: speak to me your life of your life .
+ID: 33, Rank: 1, Sentence: speak to me your life with your life .
+ID: 33, Rank: 2, Sentence: speak to me your life with you .
+ID: 34, Rank: 0, Sentence: I know I can go more fast .
+ID: 34, Rank: 1, Sentence: I know I can go more fast , but .
+ID: 34, Rank: 2, Sentence: I know I can go more fast , you know more quickly .
+ID: 35, Rank: 0, Sentence: I &apos;m looking for my old friends .
+ID: 35, Rank: 1, Sentence: I &apos;m looking for my old friends in the party of the party of the man of the party .
+ID: 35, Rank: 2, Sentence: I &apos;m looking for my old friends in the party of the party of the man of the party of the time .
+ID: 36, Rank: 0, Sentence: what did you buy in dinner ?
+ID: 36, Rank: 1, Sentence: what did you do on dinner ?
+ID: 36, Rank: 2, Sentence: what did you do to dinner ?
+ID: 37, Rank: 0, Sentence: do you have to help it with you ?
+ID: 37, Rank: 1, Sentence: do you have to help it with me ?
+ID: 37, Rank: 2, Sentence: do you have to help it with him ?
+ID: 38, Rank: 0, Sentence: the experience is important .
+ID: 38, Rank: 1, Sentence: the experience is important in his people .
+ID: 38, Rank: 2, Sentence: the experience is important to have been cold .
+ID: 39, Rank: 0, Sentence: the past had been the good of the sun but they have been without him without him .
+ID: 39, Rank: 1, Sentence: the past had been the good of the sun but they have been without him .
+ID: 39, Rank: 2, Sentence: the past had been the good of the sun but they have been without him yet .
+ID: 40, Rank: 0, Sentence: why didn &apos;t you have done ?
+ID: 40, Rank: 1, Sentence: why didn &apos;t you have done that ?
+ID: 40, Rank: 2, Sentence: why didn &apos;t you have done it ?
+ID: 41, Rank: 0, Sentence: it &apos;s on this what we got on that
+ID: 41, Rank: 1, Sentence: it &apos;s on this what we were on .
+ID: 41, Rank: 2, Sentence: it &apos;s on this what we were on the matter of our people .
+ID: 42, Rank: 0, Sentence: she took her life a life at life .
+ID: 42, Rank: 1, Sentence: she took her life a life off a life .
+ID: 42, Rank: 2, Sentence: she took her life a life off a life .
+ID: 43, Rank: 0, Sentence: Tom doesn &apos;t tell you nothing ?
+ID: 43, Rank: 1, Sentence: Tom doesn &apos;t tell you anything ?
+ID: 43, Rank: 2, Sentence: Tom doesn &apos;t tell you nothing to say .
+ID: 44, Rank: 0, Sentence: I know what &apos;s an wrong of a thing .
+ID: 44, Rank: 1, Sentence: I know what &apos;s an wrong of a chance .
+ID: 44, Rank: 2, Sentence: I know what &apos;s an wrong of a cold .
+ID: 45, Rank: 0, Sentence: you &apos;ll tell yourself everything .
+ID: 45, Rank: 1, Sentence: you &apos;ll tell yourself everything to everything .
+ID: 45, Rank: 2, Sentence: you &apos;ll tell yourself everything , you &apos;ll help you back .
+ID: 46, Rank: 0, Sentence: this room looks have seen him .
+ID: 46, Rank: 1, Sentence: this room looks have been killed .
+ID: 46, Rank: 2, Sentence: this room looks have seen him room .
+ID: 47, Rank: 0, Sentence: I &apos;m going to take a few hours , as I am one of a book and a book .
+ID: 47, Rank: 1, Sentence: I &apos;m going to take a few hours , as I am one of a book and get a book .
+ID: 47, Rank: 2, Sentence: I &apos;m going to take a few hours , as I am one of a book and get a book and book a book .
+ID: 48, Rank: 0, Sentence: children have a lunch on the way of the beach .
+ID: 48, Rank: 1, Sentence: children have a lunch on the way to get one of the beach .
+ID: 48, Rank: 2, Sentence: children have a lunch on the way to get one of the way .
+ID: 49, Rank: 0, Sentence: what did he do you ?
+ID: 49, Rank: 1, Sentence: what did he have done ?
+ID: 49, Rank: 2, Sentence: what did he get ?
+ID: 50, Rank: 0, Sentence: please take a use three one day .
+ID: 50, Rank: 1, Sentence: please take a use three one day to get a day .
+ID: 50, Rank: 2, Sentence: please take a use three one day to go by day .
+ID: 51, Rank: 0, Sentence: Tom made a beer .
+ID: 51, Rank: 1, Sentence: Tom took a beer .
+ID: 51, Rank: 2, Sentence: Tom took a beer beer .
+ID: 52, Rank: 0, Sentence: when I &apos;m sorry .
+ID: 52, Rank: 1, Sentence: when I have to see the floor .
+ID: 52, Rank: 2, Sentence: when I have to see the world , I &apos;ve always had the way to the past of the future .
+ID: 53, Rank: 0, Sentence: I wanted to know why you &apos;re not wanted .
+ID: 53, Rank: 1, Sentence: I wanted to know why you &apos;re not going to know why you &apos;re not yesterday .
+ID: 53, Rank: 2, Sentence: I wanted to know why you &apos;re not going to know why you &apos;re not supposed .
+ID: 54, Rank: 0, Sentence: he will take a student on this children !
+ID: 54, Rank: 1, Sentence: he will take a student in this got !
+ID: 54, Rank: 2, Sentence: he will take a student in this city !
+ID: 55, Rank: 0, Sentence: Tom didn &apos;t know how to make this .
+ID: 55, Rank: 1, Sentence: Tom didn &apos;t know how to make this can .
+ID: 55, Rank: 2, Sentence: Tom didn &apos;t know how to keep this yet .
+ID: 56, Rank: 0, Sentence: he was very see the only one .
+ID: 56, Rank: 1, Sentence: he was very see the only .
+ID: 56, Rank: 2, Sentence: he was very see the only one about this .
+ID: 57, Rank: 0, Sentence: the pay is in a cold , but , and course is go to get married on call .
+ID: 57, Rank: 1, Sentence: the pay is in a cold , but , and course is go to get married on the weather .
+ID: 57, Rank: 2, Sentence: the pay is in a cold , but , and course is go to get married , and a man is !
+ID: 58, Rank: 0, Sentence: everyone had a good year last year .
+ID: 58, Rank: 1, Sentence: everyone had had a good year ago .
+ID: 58, Rank: 2, Sentence: everyone had had a good year year .
+ID: 59, Rank: 0, Sentence: I told him not to tell him not to go .
+ID: 59, Rank: 1, Sentence: I told him not to tell him not to happen .
+ID: 59, Rank: 2, Sentence: I told him not to tell him .
+ID: 60, Rank: 0, Sentence: I &apos;d like to don &apos;t want to go too much .
+ID: 60, Rank: 1, Sentence: I &apos;d like to don &apos;t want to go too much to go .
+ID: 60, Rank: 2, Sentence: I &apos;d like to don &apos;t want to go about .
+ID: 61, Rank: 0, Sentence: the &quot; did their &quot; have sorry and do have a trip to make up of this words .
+ID: 61, Rank: 1, Sentence: the &quot; did their &quot; have sorry and do have a trip to make up of this words .
+ID: 61, Rank: 2, Sentence: the &quot; did their &quot; have sorry and do have a trip to make up of this been ?
+ID: 62, Rank: 0, Sentence: it &apos;s only a child .
+ID: 62, Rank: 1, Sentence: it &apos;s only a child that that is a child .
+ID: 62, Rank: 2, Sentence: it &apos;s only a child that it is a child .
+ID: 63, Rank: 0, Sentence: she can &apos;t see me time to see me on time .
+ID: 63, Rank: 1, Sentence: she can &apos;t see me time to see me another time .
+ID: 63, Rank: 2, Sentence: she can &apos;t see me time to see me another time on time .
+ID: 64, Rank: 0, Sentence: don &apos;t leave on this way on what
+ID: 64, Rank: 1, Sentence: don &apos;t leave on this way out .
+ID: 64, Rank: 2, Sentence: don &apos;t leave on this way on this .
+ID: 65, Rank: 0, Sentence: I have been invited to tell the book .
+ID: 65, Rank: 1, Sentence: I have been invited to say the book .
+ID: 65, Rank: 2, Sentence: I have been invited to the book .
+ID: 66, Rank: 0, Sentence: a cat a cat a cat .
+ID: 66, Rank: 1, Sentence: a cat a cat a cat a cat .
+ID: 66, Rank: 2, Sentence: a cat a cat a cat .
+ID: 67, Rank: 0, Sentence: what ! do something eat of this ?
+ID: 67, Rank: 1, Sentence: what ! do something eat of that ?
+ID: 67, Rank: 2, Sentence: what ! do something eat of this .
+ID: 68, Rank: 0, Sentence: can you keep this bicycle ?
+ID: 68, Rank: 1, Sentence: can you keep this bag out ?
+ID: 68, Rank: 2, Sentence: can you keep this for those some days ?
+ID: 69, Rank: 0, Sentence: the company is going and a good dog from a good question .
+ID: 69, Rank: 1, Sentence: the company is going and a good dog from a good question than a good chance .
+ID: 69, Rank: 2, Sentence: the company is going and a good dog from a good question than a good chance . it will get up from a good way for the way of the don or it .
+ID: 70, Rank: 0, Sentence: could you see it more just ?
+ID: 70, Rank: 1, Sentence: could you see it more just again ?
+ID: 70, Rank: 2, Sentence: could you see it more just do ?
+ID: 71, Rank: 0, Sentence: let &apos;s go back to it .
+ID: 71, Rank: 1, Sentence: let &apos;s go back to the right .
+ID: 71, Rank: 2, Sentence: let &apos;s go back to the .
+ID: 72, Rank: 0, Sentence: they have what they &apos;re thinking that they were talking .
+ID: 72, Rank: 1, Sentence: they have what they &apos;re thinking that they will happen .
+ID: 72, Rank: 2, Sentence: they have what they &apos;re thinking that they were going to go .
+ID: 73, Rank: 0, Sentence: does Tom &apos;ve had crazy ?
+ID: 73, Rank: 1, Sentence: does Tom &apos;ve had some things ?
+ID: 73, Rank: 2, Sentence: does Tom &apos;ve had some these people ?
+ID: 74, Rank: 0, Sentence: it &apos;s very easy to be easy .
+ID: 74, Rank: 1, Sentence: it &apos;s very easy to be easy to be it .
+ID: 74, Rank: 2, Sentence: it &apos;s very easy to be easy to be careful .
+ID: 75, Rank: 0, Sentence: I don &apos;t like to eat too long .
+ID: 75, Rank: 1, Sentence: I don &apos;t like to eat too much other long .
+ID: 75, Rank: 2, Sentence: I don &apos;t like to eat too much way , time .
+ID: 76, Rank: 0, Sentence: he is a good camera .
+ID: 76, Rank: 1, Sentence: he is a good camera , I got a good camera .
+ID: 76, Rank: 2, Sentence: he is a good camera , so well .
+ID: 77, Rank: 0, Sentence: he is the new way of the mountain of the new mother in France .
+ID: 77, Rank: 1, Sentence: he is the new way of the mountain of the way .
+ID: 77, Rank: 2, Sentence: he is the new way of the mountain of the new hand .
+ID: 78, Rank: 0, Sentence: I &apos;m not going out tonight tonight .
+ID: 78, Rank: 1, Sentence: I &apos;m not going out tonight .
+ID: 78, Rank: 2, Sentence: I &apos;m not going into this evening evening .
+ID: 79, Rank: 0, Sentence: come with me at the station with me .
+ID: 79, Rank: 1, Sentence: come with me to me .
+ID: 79, Rank: 2, Sentence: come with me at the station with me for the station .
+ID: 80, Rank: 0, Sentence: I &apos;ll tell you in the station tomorrow .
+ID: 80, Rank: 1, Sentence: I &apos;ll tell you the station tomorrow .
+ID: 80, Rank: 2, Sentence: I &apos;ll tell you tomorrow .
+ID: 81, Rank: 0, Sentence: he will have a few days later than later .
+ID: 81, Rank: 1, Sentence: he will have a few days later or a few days .
+ID: 81, Rank: 2, Sentence: he will have a few days later or a few day .
+ID: 82, Rank: 0, Sentence: can you read what it said ?
+ID: 82, Rank: 1, Sentence: can you read what it should read ?
+ID: 82, Rank: 2, Sentence: can you read what it will said ?
+ID: 83, Rank: 0, Sentence: is it possible .
+ID: 83, Rank: 1, Sentence: is it possible to have a man .
+ID: 83, Rank: 2, Sentence: is it possible to have a man . can &apos;t be a the day ?
+ID: 84, Rank: 0, Sentence: the health is out of the health .
+ID: 84, Rank: 1, Sentence: the health is out of the health is an read health .
+ID: 84, Rank: 2, Sentence: the health is out of the health is an read room .
+ID: 85, Rank: 0, Sentence: it &apos;s sure Tom has to work that to see each other .
+ID: 85, Rank: 1, Sentence: it &apos;s sure Tom has to work that to see each other to work .
+ID: 85, Rank: 2, Sentence: it &apos;s sure Tom has to work that to see each other to be one who looks like a .
+ID: 86, Rank: 0, Sentence: I know you want to go home .
+ID: 86, Rank: 1, Sentence: I know you want to go home at home .
+ID: 86, Rank: 2, Sentence: I know you want to go home home at home .
+ID: 87, Rank: 0, Sentence: is it all wrong ?
+ID: 87, Rank: 1, Sentence: is it all going to do this again ?
+ID: 87, Rank: 2, Sentence: is it all going to do this do ?
+ID: 88, Rank: 0, Sentence: thanks to this book , I learned that book .
+ID: 88, Rank: 1, Sentence: thanks to this book , I learned that book , I learned things on this car .
+ID: 88, Rank: 2, Sentence: thanks to this book , I learned that book , I learned things on this place .
+ID: 89, Rank: 0, Sentence: I think Tom is correct .
+ID: 89, Rank: 1, Sentence: I think Tom is married .
+ID: 89, Rank: 2, Sentence: I think Tom is a question .
+ID: 90, Rank: 0, Sentence: there was still too many as there &apos;s always too fast on his hair .
+ID: 90, Rank: 1, Sentence: there was still too many as there &apos;s always too fast on his hair on his back .
+ID: 90, Rank: 2, Sentence: there was still too many as there &apos;s always too fast on his hair on her .
+ID: 91, Rank: 0, Sentence: I thought you &apos;d be here .
+ID: 91, Rank: 1, Sentence: I thought you &apos;d be here for here .
+ID: 91, Rank: 2, Sentence: I thought you &apos;d be here right here .
+ID: 92, Rank: 0, Sentence: we &apos;ve been lost together together .
+ID: 92, Rank: 1, Sentence: we &apos;ve been lost together .
+ID: 92, Rank: 2, Sentence: we &apos;ve been lost together together in we have enough on us .
+ID: 93, Rank: 0, Sentence: do you have any water ?
+ID: 93, Rank: 1, Sentence: do you have any water that water ?
+ID: 93, Rank: 2, Sentence: do you have any water ? did you find this water ?
+ID: 94, Rank: 0, Sentence: to be a man of a glass of the trying .
+ID: 94, Rank: 1, Sentence: to be a man of a glass of the glass of information to make up for hours to buy .
+ID: 94, Rank: 2, Sentence: to be a man of a glass of the glass of information to make up for hours to get out of the people at school .
+ID: 95, Rank: 0, Sentence: I had to have my car by one car .
+ID: 95, Rank: 1, Sentence: I had to have my car by one car at once .
+ID: 95, Rank: 2, Sentence: I had to have my car by one car at an place .
+ID: 96, Rank: 0, Sentence: all the trip , the trip , the trip out .
+ID: 96, Rank: 1, Sentence: all the trip , the trip , the trip out is behind dollars .
+ID: 96, Rank: 2, Sentence: all the trip , the trip , the trip to give it on times .
+ID: 97, Rank: 0, Sentence: you &apos;ll get my language my language .
+ID: 97, Rank: 1, Sentence: you will take my language my language .
+ID: 97, Rank: 2, Sentence: you &apos;ll get my language my language in my language .
+ID: 98, Rank: 0, Sentence: he doesn &apos;t like to go to go at the morning .
+ID: 98, Rank: 1, Sentence: he doesn &apos;t like to go to go at the morning of going to do something .
+ID: 98, Rank: 2, Sentence: he doesn &apos;t like to go to go at the morning of going to do something to do something .
+ID: 99, Rank: 0, Sentence: it &apos;s kind of danger .
+ID: 99, Rank: 1, Sentence: it &apos;s kind of fun .
+ID: 99, Rank: 2, Sentence: it &apos;s kind of this ?
+ID: 100, Rank: 0, Sentence: she must have a room with her sister .
+ID: 100, Rank: 1, Sentence: she must have a room with his sister .
+ID: 100, Rank: 2, Sentence: she must have a room with his sister in her sister .
+ID: 101, Rank: 0, Sentence: is there your friends ?
+ID: 101, Rank: 1, Sentence: is he kind of your friends ?
+ID: 101, Rank: 2, Sentence: is he kind of your friends .
+ID: 102, Rank: 0, Sentence: these are has to get these &apos;s room .
+ID: 102, Rank: 1, Sentence: these are has to get these hair in nothing .
+ID: 102, Rank: 2, Sentence: these are has to get these is behind me .
+ID: 103, Rank: 0, Sentence: how can you be alone with the world when the world !
+ID: 103, Rank: 1, Sentence: how can you be careful with the world when the world !
+ID: 103, Rank: 2, Sentence: how can you be careful with the world when the world .
+ID: 104, Rank: 0, Sentence: &quot; look !
+ID: 104, Rank: 1, Sentence: &quot; look , a age , a big ball , so .
+ID: 104, Rank: 2, Sentence: &quot; look , a age , a big ball , so . &quot;
+ID: 105, Rank: 0, Sentence: you can &apos;t buy that was buy the matter , that was buy to buy this evening , please without it again .
+ID: 105, Rank: 1, Sentence: you can &apos;t buy that was buy the matter , that was buy to buy this evening , please without it again .
+ID: 105, Rank: 2, Sentence: you can &apos;t buy that was buy the matter , that was buy to buy this evening , please without it again .
+ID: 106, Rank: 0, Sentence: do you remember her phone number ?
+ID: 106, Rank: 1, Sentence: do you remember his phone number ?
+ID: 106, Rank: 2, Sentence: do you remember his phone number from him ?
+ID: 107, Rank: 0, Sentence: Tom , who is so happy anything .
+ID: 107, Rank: 1, Sentence: Tom , who is so happy anything . do you like to get up .
+ID: 107, Rank: 2, Sentence: Tom , who is so happy anything . do you like to get me right for me .
+ID: 108, Rank: 0, Sentence: it won &apos;t be easy for you .
+ID: 108, Rank: 1, Sentence: it won &apos;t be easy for you to miss you .
+ID: 108, Rank: 2, Sentence: it won &apos;t be easy for you to miss you right .
+ID: 109, Rank: 0, Sentence: do you know your parents ?
+ID: 109, Rank: 1, Sentence: are you your parents like your parents ?
+ID: 109, Rank: 2, Sentence: are you your parents ?
+ID: 110, Rank: 0, Sentence: I want you to help me .
+ID: 110, Rank: 1, Sentence: I want you to help me for help me .
+ID: 110, Rank: 2, Sentence: I want you to help me for help .
+ID: 111, Rank: 0, Sentence: what are you going to do ?
+ID: 111, Rank: 1, Sentence: what are you going to do it ?
+ID: 111, Rank: 2, Sentence: what are you doing of ?
+ID: 112, Rank: 0, Sentence: those who have the hair hair by a great hair .
+ID: 112, Rank: 1, Sentence: those who have the hair hair by a great hair of hair .
+ID: 112, Rank: 2, Sentence: those who have the hair hair by a great hair of hair !
+ID: 113, Rank: 0, Sentence: you were afraid , don &apos;t you ?
+ID: 113, Rank: 1, Sentence: you were afraid , weren &apos;t you ?
+ID: 113, Rank: 2, Sentence: you were afraid , aren &apos;t you ?
+ID: 114, Rank: 0, Sentence: is it your bicycle ?
+ID: 114, Rank: 1, Sentence: is that your bicycle ?
+ID: 114, Rank: 2, Sentence: is this your bicycle ?
+ID: 115, Rank: 0, Sentence: I know Tom doesn &apos;t like Mary like Mary .
+ID: 115, Rank: 1, Sentence: I know Tom doesn &apos;t like Mary .
+ID: 115, Rank: 2, Sentence: I know Tom doesn &apos;t like Mary yet .
+ID: 116, Rank: 0, Sentence: what &apos;s the done in this class ?
+ID: 116, Rank: 1, Sentence: what &apos;s the done in this room ?
+ID: 116, Rank: 2, Sentence: what &apos;s the done with this answer ?
+ID: 117, Rank: 0, Sentence: call a doctor .
+ID: 117, Rank: 1, Sentence: call a doctor in a doctor !
+ID: 117, Rank: 2, Sentence: call a doctor is a doctor !
+ID: 118, Rank: 0, Sentence: Tom said everything he knew everything he knew the police .
+ID: 118, Rank: 1, Sentence: Tom said everything he knew everything he knew about the police .
+ID: 118, Rank: 2, Sentence: Tom said everything he knew everything .
+ID: 119, Rank: 0, Sentence: I &apos;m not at all the everything .
+ID: 119, Rank: 1, Sentence: I &apos;m not at all the everything of the past .
+ID: 119, Rank: 2, Sentence: I &apos;m not at all the everything of the myself .
+ID: 120, Rank: 0, Sentence: who would you like to take with you ?
+ID: 120, Rank: 1, Sentence: who would you like to take with that ?
+ID: 120, Rank: 2, Sentence: who would you like to take with you ? who you do in your place ?
+ID: 121, Rank: 0, Sentence: I &apos;d like to help them if I &apos;d want to help them .
+ID: 121, Rank: 1, Sentence: I &apos;d like to help them if I &apos;d want to help them alone .
+ID: 121, Rank: 2, Sentence: I &apos;d like to help them if I &apos;d want to help them again .
+ID: 122, Rank: 0, Sentence: do you know where are the others ?
+ID: 122, Rank: 1, Sentence: do you know where are you last others ?
+ID: 122, Rank: 2, Sentence: do you know where are you last night ?
+ID: 123, Rank: 0, Sentence: Tom thinks he didn &apos;t know that he wasn &apos;t seen it .
+ID: 123, Rank: 1, Sentence: Tom thinks he didn &apos;t know that he wasn &apos;t seen him .
+ID: 123, Rank: 2, Sentence: Tom thinks he didn &apos;t know that he wasn &apos;t seen it to saw .
+ID: 124, Rank: 0, Sentence: this car has a hat .
+ID: 124, Rank: 1, Sentence: this car has a hat to her .
+ID: 124, Rank: 2, Sentence: this car has a hat to her up .
+ID: 125, Rank: 0, Sentence: did you already see the floor ?
+ID: 125, Rank: 1, Sentence: did you already see the floor floor ?
+ID: 125, Rank: 2, Sentence: did you already see the floor in the didn ?
+ID: 126, Rank: 0, Sentence: she &apos;s going to do the way .
+ID: 126, Rank: 1, Sentence: she &apos;s going to do the train stop .
+ID: 126, Rank: 2, Sentence: she &apos;s going to do the train stop .
+ID: 127, Rank: 0, Sentence: someone is there ?
+ID: 127, Rank: 1, Sentence: someone is he heard me ?
+ID: 127, Rank: 2, Sentence: someone is he heard ?
+ID: 128, Rank: 0, Sentence: I don &apos;t like going to live alone .
+ID: 128, Rank: 1, Sentence: I don &apos;t like going to talk about you .
+ID: 128, Rank: 2, Sentence: I don &apos;t like going to talk about that alone .
+ID: 129, Rank: 0, Sentence: I think we &apos;re all a little little one .
+ID: 129, Rank: 1, Sentence: I think we &apos;re all a little little a little one .
+ID: 129, Rank: 2, Sentence: I think we &apos;re all a little little a little one of course .
+ID: 130, Rank: 0, Sentence: I think Tom is mine .
+ID: 130, Rank: 1, Sentence: I think Tom is mine .
+ID: 130, Rank: 2, Sentence: I think Tom &apos;s fun .
+ID: 131, Rank: 0, Sentence: I took a glass of mine .
+ID: 131, Rank: 1, Sentence: I took a glass of bad that .
+ID: 131, Rank: 2, Sentence: I took a glass of bad that already .
+ID: 132, Rank: 0, Sentence: what are you talking about ?
+ID: 132, Rank: 1, Sentence: what are you talking in ?
+ID: 132, Rank: 2, Sentence: what are you doing of ?
+ID: 133, Rank: 0, Sentence: I still have yet to do things things to do .
+ID: 133, Rank: 1, Sentence: I still have yet to do things things to do things .
+ID: 133, Rank: 2, Sentence: I still have yet to do things things to do things do .
+ID: 134, Rank: 0, Sentence: he has a lot of address .
+ID: 134, Rank: 1, Sentence: he has a lot of address with them .
+ID: 134, Rank: 2, Sentence: he has a lot of address to help us .
+ID: 135, Rank: 0, Sentence: you can tell me everything to tell me .
+ID: 135, Rank: 1, Sentence: you can tell me everything to tell you .
+ID: 135, Rank: 2, Sentence: you can tell me everything to tell you everything .
+ID: 136, Rank: 0, Sentence: &quot; he is dead or &quot; or &quot; he is in life ?
+ID: 136, Rank: 1, Sentence: &quot; he is dead or &quot; or &quot; he is life ?
+ID: 136, Rank: 2, Sentence: &quot; he is dead or &quot; or &quot; he is life or &quot; he is in life .
+ID: 137, Rank: 0, Sentence: speak please me your opinion .
+ID: 137, Rank: 1, Sentence: speak please me your would .
+ID: 137, Rank: 2, Sentence: speak please me your would my way .
+ID: 138, Rank: 0, Sentence: they &apos;re very kind of this .
+ID: 138, Rank: 1, Sentence: they &apos;re very kind of this ?
+ID: 138, Rank: 2, Sentence: they &apos;re very kind of this place .
+ID: 139, Rank: 0, Sentence: he doesn &apos;t have you to not come .
+ID: 139, Rank: 1, Sentence: he doesn &apos;t have you to not come up .
+ID: 139, Rank: 2, Sentence: he doesn &apos;t have you to not be doesn .
+ID: 140, Rank: 0, Sentence: there is a table .
+ID: 140, Rank: 1, Sentence: there is a table there .
+ID: 140, Rank: 2, Sentence: there &apos;s a table there .
+ID: 141, Rank: 0, Sentence: she will find me for a man for a man .
+ID: 141, Rank: 1, Sentence: she will find me for a man .
+ID: 141, Rank: 2, Sentence: she will find me for a man for a man out man .
+ID: 142, Rank: 0, Sentence: the old began to the work , he went to bed .
+ID: 142, Rank: 1, Sentence: the old began to the work , he went to bed .
+ID: 142, Rank: 2, Sentence: the old began to the work , he went to bed , he went to bed .
+ID: 143, Rank: 0, Sentence: I saw you at the TV of time .
+ID: 143, Rank: 1, Sentence: I saw you on the TV .
+ID: 143, Rank: 2, Sentence: I saw you at the TV .
+ID: 144, Rank: 0, Sentence: are you sure ?
+ID: 144, Rank: 1, Sentence: are you sure ?
+ID: 144, Rank: 2, Sentence: are you going to get up ?
+ID: 145, Rank: 0, Sentence: he was a behind me ?
+ID: 145, Rank: 1, Sentence: he was a bit to use .
+ID: 145, Rank: 2, Sentence: he was a bit to my .
+ID: 146, Rank: 0, Sentence: the phone was really to a really , but the doctor was really in a doctor .
+ID: 146, Rank: 1, Sentence: the phone was really to a really , but the doctor was really , but the doctor would be a doctor .
+ID: 146, Rank: 2, Sentence: the phone was really to a really , but the doctor was really , but the doctor would be a doctor to .
+ID: 147, Rank: 0, Sentence: he can &apos;t find the problem .
+ID: 147, Rank: 1, Sentence: he can &apos;t find the problem in this problem , he will be waiting for a another way .
+ID: 147, Rank: 2, Sentence: he can &apos;t find the problem in this problem , he will be waiting for a another way at least another time .
+ID: 148, Rank: 0, Sentence: my grandmother is going to the United
+ID: 148, Rank: 1, Sentence: my grandmother is going to the United
+ID: 148, Rank: 2, Sentence: my grandmother is going to get into my heart .
+ID: 149, Rank: 0, Sentence: don &apos;t make up to make any other .
+ID: 149, Rank: 1, Sentence: don &apos;t make up to make any way to do .
+ID: 149, Rank: 2, Sentence: don &apos;t make up to make any way to the garden .
+ID: 150, Rank: 0, Sentence: no .
+ID: 150, Rank: 1, Sentence: no , just this .
+ID: 150, Rank: 2, Sentence: no , just this there are just one .
+ID: 151, Rank: 0, Sentence: I am glad my baby baby in the dark .
+ID: 151, Rank: 1, Sentence: I am glad my baby baby in the meeting .
+ID: 151, Rank: 2, Sentence: I am glad my baby baby in the small office .
+ID: 152, Rank: 0, Sentence: I &apos;ve always always a good way to get out of my friends .
+ID: 152, Rank: 1, Sentence: I &apos;ve always always a good way to get out of my friends .
+ID: 152, Rank: 2, Sentence: I &apos;ve always always a good way to get out of my good car .
+ID: 153, Rank: 0, Sentence: Tom is a better person in a hurry .
+ID: 153, Rank: 1, Sentence: Tom is a better person in a better .
+ID: 153, Rank: 2, Sentence: Tom is a better person at a place .
+ID: 154, Rank: 0, Sentence: I think the answer .
+ID: 154, Rank: 1, Sentence: I think the answer . &quot;
+ID: 154, Rank: 2, Sentence: I think the answer I think it .
+ID: 155, Rank: 0, Sentence: what &apos;s the bad of cold today ?
+ID: 155, Rank: 1, Sentence: what &apos;s the matter of to go today ?
+ID: 155, Rank: 2, Sentence: what &apos;s the bad of cold today ? ?
+ID: 156, Rank: 0, Sentence: I didn &apos;t know how to live off it .
+ID: 156, Rank: 1, Sentence: I didn &apos;t know how to talk so .
+ID: 156, Rank: 2, Sentence: I didn &apos;t know how to talk it about .
+ID: 157, Rank: 0, Sentence: look at the way to me .
+ID: 157, Rank: 1, Sentence: look at the way to him .
+ID: 157, Rank: 2, Sentence: look at the way to her them .
+ID: 158, Rank: 0, Sentence: let &apos;s go to the church .
+ID: 158, Rank: 1, Sentence: let &apos;s go to the church to the church .
+ID: 158, Rank: 2, Sentence: let &apos;s go to the church to the church in now .
+ID: 159, Rank: 0, Sentence: you won &apos;t change me anything , I didn &apos;t help you like that .
+ID: 159, Rank: 1, Sentence: you won &apos;t change me anything , I didn &apos;t feel like this .
+ID: 159, Rank: 2, Sentence: you won &apos;t change me anything , I didn &apos;t help you like it .
+ID: 160, Rank: 0, Sentence: I can go to school at ten minutes in 10 minutes .
+ID: 160, Rank: 1, Sentence: I can go to school at ten minutes in 10 minutes in ten minutes .
+ID: 160, Rank: 2, Sentence: I can go to school at ten minutes in 10 minutes in ten minutes at least .
+ID: 161, Rank: 0, Sentence: Tom is in love with money .
+ID: 161, Rank: 1, Sentence: Tom is in love of money .
+ID: 161, Rank: 2, Sentence: Tom is about that money .
+ID: 162, Rank: 0, Sentence: I can &apos;t help up , but I &apos;m going to do .
+ID: 162, Rank: 1, Sentence: I can &apos;t promise nothing , but I &apos;m going to do .
+ID: 162, Rank: 2, Sentence: I can &apos;t help up , but I &apos;m going to do up before my best .
+ID: 163, Rank: 0, Sentence: thank you from the future , so .
+ID: 163, Rank: 1, Sentence: thank you from the future with him as much of the world .
+ID: 163, Rank: 2, Sentence: thank you from the future with him as much of the future , please .
+ID: 164, Rank: 0, Sentence: I &apos;d like you to go to my parents .
+ID: 164, Rank: 1, Sentence: I &apos;d like you to go to my parents ?
+ID: 164, Rank: 2, Sentence: I &apos;d like you to get up .
+ID: 165, Rank: 0, Sentence: my father didn &apos;t eat what it &apos;s wrong .
+ID: 165, Rank: 1, Sentence: my father didn &apos;t eat what it &apos;s to .
+ID: 165, Rank: 2, Sentence: my father didn &apos;t eat what it &apos;s wrong ?
+ID: 166, Rank: 0, Sentence: I &apos;ll find him at my grandmother .
+ID: 166, Rank: 1, Sentence: I &apos;ll find him at my grandmother &apos;s a large place .
+ID: 166, Rank: 2, Sentence: I &apos;ll find him at my grandmother &apos;s a big car with my mother .
+ID: 167, Rank: 0, Sentence: I don &apos;t know where to go , what I can do .
+ID: 167, Rank: 1, Sentence: I don &apos;t know where to go , what I will do ?
+ID: 167, Rank: 2, Sentence: I don &apos;t know where to go , what &apos;s going to do ?
+ID: 168, Rank: 0, Sentence: you know everyone .
+ID: 168, Rank: 1, Sentence: you know everyone to everybody .
+ID: 168, Rank: 2, Sentence: you know everyone to everybody everybody .
+ID: 169, Rank: 0, Sentence: better is not going to think there .
+ID: 169, Rank: 1, Sentence: better is not busy .
+ID: 169, Rank: 2, Sentence: better is not going to think it ?
+ID: 170, Rank: 0, Sentence: we were glad on a safe in the park .
+ID: 170, Rank: 1, Sentence: we were glad on a at the park of the park .
+ID: 170, Rank: 2, Sentence: we were glad on a at the park to the park .
+ID: 171, Rank: 0, Sentence: I &apos;ve been working to Tom .
+ID: 171, Rank: 1, Sentence: I &apos;ve been working to Tom at Tom .
+ID: 171, Rank: 2, Sentence: I &apos;ve been working to Tom at Tom to Tom .
+ID: 172, Rank: 0, Sentence: you &apos;re going to see you to talk to speak French .
+ID: 172, Rank: 1, Sentence: you &apos;re going to see you to talk to speak about French .
+ID: 172, Rank: 2, Sentence: you &apos;re going to see you to talk to speak about this are on them .
+ID: 173, Rank: 0, Sentence: do you know that ?
+ID: 173, Rank: 1, Sentence: do you know anything ?
+ID: 173, Rank: 2, Sentence: do you know that .
+ID: 174, Rank: 0, Sentence: is it me what you like for me ?
+ID: 174, Rank: 1, Sentence: is it me what you were thinking ?
+ID: 174, Rank: 2, Sentence: is it me what you like for me to ?
+ID: 175, Rank: 0, Sentence: Tom is lost his hair every day .
+ID: 175, Rank: 1, Sentence: Tom is lost his hair all day .
+ID: 175, Rank: 2, Sentence: Tom is lost his hair all days .
+ID: 176, Rank: 0, Sentence: Tom &apos;s afraid of Tom &apos;d like that .
+ID: 176, Rank: 1, Sentence: Tom &apos;s afraid of Tom &apos;d like that .
+ID: 176, Rank: 2, Sentence: Tom &apos;s afraid of Tom &apos;d like Mr to buy that money .
+ID: 177, Rank: 0, Sentence: we &apos;ll never understand the truth on his dead death .
+ID: 177, Rank: 1, Sentence: we &apos;ll never understand the truth on his dead car .
+ID: 177, Rank: 2, Sentence: we &apos;ll never tell the truth on his dead .
+ID: 178, Rank: 0, Sentence: all you have to do it is wait .
+ID: 178, Rank: 1, Sentence: all you have to do it is easy .
+ID: 178, Rank: 2, Sentence: all you have to do it is wait to do .
+ID: 179, Rank: 0, Sentence: what &apos;s it , this time ?
+ID: 179, Rank: 1, Sentence: what &apos;s it , this time in time ?
+ID: 179, Rank: 2, Sentence: what &apos;s it , this time in that time ?
+ID: 180, Rank: 0, Sentence: I took him the floor .
+ID: 180, Rank: 1, Sentence: I took him the floor to him the doctor .
+ID: 180, Rank: 2, Sentence: I took him the floor to him the floor .
+ID: 181, Rank: 0, Sentence: it must be the morning , but it must be the morning .
+ID: 181, Rank: 1, Sentence: it must be the morning , but it must be the morning of them for it .
+ID: 181, Rank: 2, Sentence: it must be the morning , but it must be the morning of that &apos;s all in .
+ID: 182, Rank: 0, Sentence: I bought this car if I had been seen with them .
+ID: 182, Rank: 1, Sentence: I bought this car if I had been seen with her .
+ID: 182, Rank: 2, Sentence: I bought this car if I had been seen with a .
+ID: 183, Rank: 0, Sentence: this word is a name , and that word .
+ID: 183, Rank: 1, Sentence: this word is a name , and this word .
+ID: 183, Rank: 2, Sentence: this word is a name , and this word and the time to happen .
+ID: 184, Rank: 0, Sentence: she took down his father down his mind .
+ID: 184, Rank: 1, Sentence: she took down his father down his mind .
+ID: 184, Rank: 2, Sentence: she took down his father down his place .
+ID: 185, Rank: 0, Sentence: I think you should get a doctor of here .
+ID: 185, Rank: 1, Sentence: I think you should get a doctor here .
+ID: 185, Rank: 2, Sentence: I think you should get a doctor here should .
+ID: 186, Rank: 0, Sentence: have you read read a love at once ?
+ID: 186, Rank: 1, Sentence: have you read read a love at the windows ?
+ID: 186, Rank: 2, Sentence: have you read read a love at the station ?
+ID: 187, Rank: 0, Sentence: how do you know how to know is the
+ID: 187, Rank: 1, Sentence: how do you know how to know is that
+ID: 187, Rank: 2, Sentence: how do you know how to know ?
+ID: 188, Rank: 0, Sentence: you don &apos;t don &apos;t take up , why don &apos;t you ?
+ID: 188, Rank: 1, Sentence: you don &apos;t don &apos;t take up , why you ?
+ID: 188, Rank: 2, Sentence: you don &apos;t don &apos;t take up , why you do not ?
+ID: 189, Rank: 0, Sentence: it &apos;s kind of danger .
+ID: 189, Rank: 1, Sentence: it &apos;s kind of fun .
+ID: 189, Rank: 2, Sentence: it &apos;s kind of this ?
+ID: 190, Rank: 0, Sentence: as I thought that I &apos;d have a him , she is .
+ID: 190, Rank: 1, Sentence: as I thought that I &apos;d have a him , she is a time .
+ID: 190, Rank: 2, Sentence: as I thought that I &apos;d have a him , she is a him .
+ID: 191, Rank: 0, Sentence: I &apos;ll get down as that he &apos;d be in French .
+ID: 191, Rank: 1, Sentence: I &apos;ll get down as that he &apos;d be French .
+ID: 191, Rank: 2, Sentence: I &apos;ll get down as that he &apos;d be in French that he &apos;ll have in French .
+ID: 192, Rank: 0, Sentence: he went on the box on the table .
+ID: 192, Rank: 1, Sentence: he went on the box in the table .
+ID: 192, Rank: 2, Sentence: he went on the box on the table on his table .
+ID: 193, Rank: 0, Sentence: the kitchen is hard .
+ID: 193, Rank: 1, Sentence: the kitchen is hard to the kitchen .
+ID: 193, Rank: 2, Sentence: the kitchen is hard to the kitchen , that is it .
+ID: 194, Rank: 0, Sentence: the animals can &apos;t find what &apos;s true is wrong .
+ID: 194, Rank: 1, Sentence: the animals can &apos;t find what &apos;s true is wrong .
+ID: 194, Rank: 2, Sentence: the animals can &apos;t tell what &apos;s true is wrong .
+ID: 195, Rank: 0, Sentence: he wrote a lot of letter .
+ID: 195, Rank: 1, Sentence: he wrote a lot to letter a letter .
+ID: 195, Rank: 2, Sentence: he wrote a lot to letter her .
+ID: 196, Rank: 0, Sentence: you must take you care of your dog .
+ID: 196, Rank: 1, Sentence: you must take you for your dog .
+ID: 196, Rank: 2, Sentence: you must take you care of your dog yourself .
+ID: 197, Rank: 0, Sentence: he got up .
+ID: 197, Rank: 1, Sentence: he got up .
+ID: 197, Rank: 2, Sentence: he got up the right of time .
+ID: 198, Rank: 0, Sentence: the boys were out of them .
+ID: 198, Rank: 1, Sentence: the boys were out of them .
+ID: 198, Rank: 2, Sentence: the boys were out of the meeting .
+ID: 199, Rank: 0, Sentence: the want is put from least to the other once once a day .
+ID: 199, Rank: 1, Sentence: the want is put from least to the other once once once a day .
+ID: 199, Rank: 2, Sentence: the want is put from least to the other once once once a day one day .
+ID: 200, Rank: 0, Sentence: I &apos;ll get the cat to him last year .
+ID: 200, Rank: 1, Sentence: I &apos;ll get the cat to him at the last year .
+ID: 200, Rank: 2, Sentence: I &apos;ll get the cat to him at the news of the year .
+ID: 201, Rank: 0, Sentence: that &apos;s why I sent you .
+ID: 201, Rank: 1, Sentence: that &apos;s why I heard you why I saw you .
+ID: 201, Rank: 2, Sentence: that &apos;s why I heard you why I sent you .
+ID: 202, Rank: 0, Sentence: it &apos;s very good .
+ID: 202, Rank: 1, Sentence: it &apos;s very good right .
+ID: 202, Rank: 2, Sentence: it &apos;s very good of good .
+ID: 203, Rank: 0, Sentence: Oh , I don &apos;t have done what I &apos;m going to do .
+ID: 203, Rank: 1, Sentence: Oh , I don &apos;t have decided that I &apos;m going to do .
+ID: 203, Rank: 2, Sentence: Oh , I don &apos;t have done what I &apos;m going to do it .
+ID: 204, Rank: 0, Sentence: in this time there are no one place .
+ID: 204, Rank: 1, Sentence: in this time there are no one there alone that .
+ID: 204, Rank: 2, Sentence: in this time there are no one there alone that has no better about here .
+ID: 205, Rank: 0, Sentence: there are a lot of good at the town .
+ID: 205, Rank: 1, Sentence: there are a lot of good at the town .
+ID: 205, Rank: 2, Sentence: there are a lot of good at the city of the city .
+ID: 206, Rank: 0, Sentence: he likes walk in the park .
+ID: 206, Rank: 1, Sentence: he likes to walk in the park .
+ID: 206, Rank: 2, Sentence: he likes to walk in the park to go on the park .
+ID: 207, Rank: 0, Sentence: do you think it ?
+ID: 207, Rank: 1, Sentence: do you think it &apos;s think ?
+ID: 207, Rank: 2, Sentence: do you think it &apos;s doing ?
+ID: 208, Rank: 0, Sentence: don &apos;t get out of water .
+ID: 208, Rank: 1, Sentence: don &apos;t get out of the water .
+ID: 208, Rank: 2, Sentence: don &apos;t get out of water ?
+ID: 209, Rank: 0, Sentence: Tom closed the door on his room .
+ID: 209, Rank: 1, Sentence: Tom closed the door in his room .
+ID: 209, Rank: 2, Sentence: Tom closed the door on his room &apos;s room &apos;s .
+ID: 210, Rank: 0, Sentence: I have here to have your feelings here .
+ID: 210, Rank: 1, Sentence: I have here to have your address here .
+ID: 210, Rank: 2, Sentence: I have here to have your feelings here before
+ID: 211, Rank: 0, Sentence: I know you &apos;re in love with me !
+ID: 211, Rank: 1, Sentence: I know that you &apos;re in love with me !
+ID: 211, Rank: 2, Sentence: I know you &apos;re in love with me .
+ID: 212, Rank: 0, Sentence: the mother is looking for a great didn to make .
+ID: 212, Rank: 1, Sentence: the mother is looking for a great didn to make up .
+ID: 212, Rank: 2, Sentence: the mother is looking for a great didn to make up to get him to .
+ID: 213, Rank: 0, Sentence: I like to get out of the floor of seeing them .
+ID: 213, Rank: 1, Sentence: I like to get out of the floor of seeing them ?
+ID: 213, Rank: 2, Sentence: I like to get out of the floor of the right of it .
+ID: 214, Rank: 0, Sentence: how did I eat that ?
+ID: 214, Rank: 1, Sentence: how did I eat ?
+ID: 214, Rank: 2, Sentence: how did I eat it ?
+ID: 215, Rank: 0, Sentence: after death .
+ID: 215, Rank: 1, Sentence: after the death of her parents found his parents for its brother and put his brother .
+ID: 215, Rank: 2, Sentence: after the death of her parents found his parents for its brother and put his brother and in its brother .
+ID: 216, Rank: 0, Sentence: this poor cat is almost beautiful !
+ID: 216, Rank: 1, Sentence: this poor cat is almost beautiful in ten .
+ID: 216, Rank: 2, Sentence: this poor cat is almost beautiful in ten it !
+ID: 217, Rank: 0, Sentence: how did you get married ,
+ID: 217, Rank: 1, Sentence: how did you plan on the more ?
+ID: 217, Rank: 2, Sentence: how did you plan on the first place ?
+ID: 218, Rank: 0, Sentence: it was very kind of this ?
+ID: 218, Rank: 1, Sentence: it was very kind of this , too .
+ID: 218, Rank: 2, Sentence: it was very kind of this , too much .
+ID: 219, Rank: 0, Sentence: Tom is a natural school .
+ID: 219, Rank: 1, Sentence: Tom is a natural school is .
+ID: 219, Rank: 2, Sentence: Tom is a natural school is a job .
+ID: 220, Rank: 0, Sentence: he gave me that it wanted me to ask me .
+ID: 220, Rank: 1, Sentence: he gave me that it wanted me to try it .
+ID: 220, Rank: 2, Sentence: he gave me that it wanted me to ask me that .
+ID: 221, Rank: 0, Sentence: I have a few @-@ few @-@ a few people of German .
+ID: 221, Rank: 1, Sentence: I have a few @-@ few @-@ a few people of German .
+ID: 221, Rank: 2, Sentence: I have a few @-@ few @-@ a few people @-@ little understand in @-@ a few few .
+ID: 222, Rank: 0, Sentence: Tom has to get him more never do that anymore .
+ID: 222, Rank: 1, Sentence: Tom has to get him more never do that .
+ID: 222, Rank: 2, Sentence: Tom has to get him more never do that again .
+ID: 223, Rank: 0, Sentence: is there anything ?
+ID: 223, Rank: 1, Sentence: is those anything ?
+ID: 223, Rank: 2, Sentence: is these those key are ?
+ID: 224, Rank: 0, Sentence: she took down the door down the door .
+ID: 224, Rank: 1, Sentence: she took off the door .
+ID: 224, Rank: 2, Sentence: she took down the door for the door .
+ID: 225, Rank: 0, Sentence: I &apos;ll be happy with you work with you .
+ID: 225, Rank: 1, Sentence: I &apos;ll be happy with you work with yourself .
+ID: 225, Rank: 2, Sentence: I &apos;ll be happy with you .
+ID: 226, Rank: 0, Sentence: Tom didn &apos;t have enough money to buy everything that has needs .
+ID: 226, Rank: 1, Sentence: Tom doesn &apos;t have enough money to buy everything that need need .
+ID: 226, Rank: 2, Sentence: Tom doesn &apos;t have enough money to buy everything that needed needs .
+ID: 227, Rank: 0, Sentence: I know Tom is a bit @-@ a little Tom .
+ID: 227, Rank: 1, Sentence: I know Tom is a bit @-@ a little question .
+ID: 227, Rank: 2, Sentence: I know Tom is a bit @-@ a little way .
+ID: 228, Rank: 0, Sentence: they took him up to him up .
+ID: 228, Rank: 1, Sentence: they took him up to him up her .
+ID: 228, Rank: 2, Sentence: they took him up to him up this .
+ID: 229, Rank: 0, Sentence: I like him so much that he &apos;s a nice that .
+ID: 229, Rank: 1, Sentence: I like him so much that he &apos;s a nice store .
+ID: 229, Rank: 2, Sentence: I like him so much that he &apos;s a good boy .
+ID: 230, Rank: 0, Sentence: Tom has learned the cat and the don out in the hotel .
+ID: 230, Rank: 1, Sentence: Tom has learned the cat and the don out in the end of the United States
+ID: 230, Rank: 2, Sentence: Tom has learned the cat and the don out in the end of the United States
+ID: 231, Rank: 0, Sentence: we want Tom to Tom Tom .
+ID: 231, Rank: 1, Sentence: we want Tom .
+ID: 231, Rank: 2, Sentence: we want Tom to buy Tom .
+ID: 232, Rank: 0, Sentence: I really like a really doing that now .
+ID: 232, Rank: 1, Sentence: I really like a really doing that now .
+ID: 232, Rank: 2, Sentence: I really like a really doing that like this .
+ID: 233, Rank: 0, Sentence: I can &apos;t help me from there .
+ID: 233, Rank: 1, Sentence: I can &apos;t help me from there ?
+ID: 233, Rank: 2, Sentence: I can &apos;t help me from there at it .
+ID: 234, Rank: 0, Sentence: my mother works to the floor and she is tired at home .
+ID: 234, Rank: 1, Sentence: my mother works to the floor and she is tired at home when she went to the house .
+ID: 234, Rank: 2, Sentence: my mother works to the floor and she is tired at home when she went home with her house .
+ID: 235, Rank: 0, Sentence: the let was afraid of the wrong of the meeting .
+ID: 235, Rank: 1, Sentence: the let was afraid of the wrong of the hand .
+ID: 235, Rank: 2, Sentence: the let was afraid of the wrong of the fire .
+ID: 236, Rank: 0, Sentence: do I have something something , this .
+ID: 236, Rank: 1, Sentence: do I have something something , this is .
+ID: 236, Rank: 2, Sentence: do I have something something , did this last morning ?
+ID: 237, Rank: 0, Sentence: my mother lives alone in my place .
+ID: 237, Rank: 1, Sentence: my mother lives alone in my mother lives .
+ID: 237, Rank: 2, Sentence: my mother lives alone in my mother one lives .
+ID: 238, Rank: 0, Sentence: I their all of you &apos;ve had all kinds .
+ID: 238, Rank: 1, Sentence: I their all of you &apos;ve had all a of .
+ID: 238, Rank: 2, Sentence: I their all of you &apos;ve had all a of time .
+ID: 239, Rank: 0, Sentence: you &apos;re on the is books .
+ID: 239, Rank: 1, Sentence: you &apos;re on the were books .
+ID: 239, Rank: 2, Sentence: you &apos;re on the easy you .
+ID: 240, Rank: 0, Sentence: it &apos;s not a good person .
+ID: 240, Rank: 1, Sentence: it &apos;s not a to answer .
+ID: 240, Rank: 2, Sentence: it &apos;s not a good person to school .
+ID: 241, Rank: 0, Sentence: you &apos;re too old to me .
+ID: 241, Rank: 1, Sentence: you &apos;re too old to me to me .
+ID: 241, Rank: 2, Sentence: you &apos;re too old to me about me .
+ID: 242, Rank: 0, Sentence: he is what she will get the French on school .
+ID: 242, Rank: 1, Sentence: he is what she will get the French for school on school .
+ID: 242, Rank: 2, Sentence: he is what she will get the French for school on school .
+ID: 243, Rank: 0, Sentence: he speaks as if he knew everything .
+ID: 243, Rank: 1, Sentence: he speaks as if he knew everything if he knew all .
+ID: 243, Rank: 2, Sentence: he speaks as if he knew everything if he knew that .
+ID: 244, Rank: 0, Sentence: he will get back to me .
+ID: 244, Rank: 1, Sentence: he will get back to me about that .
+ID: 244, Rank: 2, Sentence: he will get back to me about it .
+ID: 245, Rank: 0, Sentence: are you sure that you &apos;re that me ?
+ID: 245, Rank: 1, Sentence: are you sure that you &apos;re that me .
+ID: 245, Rank: 2, Sentence: are you sure that you &apos;re that me to me ?
+ID: 246, Rank: 0, Sentence: what &apos;s it is what it &apos;s so good ?
+ID: 246, Rank: 1, Sentence: what &apos;s it is what it &apos;s really good ?
+ID: 246, Rank: 2, Sentence: what &apos;s it is what it &apos;s really good .
+ID: 247, Rank: 0, Sentence: I like you to take some time to see me .
+ID: 247, Rank: 1, Sentence: I like you to take some time to see me to do you .
+ID: 247, Rank: 2, Sentence: I like you to take some time to see me to do that time .
+ID: 248, Rank: 0, Sentence: I &apos;m interested on the way at the world of the right .
+ID: 248, Rank: 1, Sentence: I &apos;m interested on the way at the world of the right of the world .
+ID: 248, Rank: 2, Sentence: I &apos;m interested on the way at the world of the right of the world .
+ID: 249, Rank: 0, Sentence: the meeting of this hat was killed in the garden .
+ID: 249, Rank: 1, Sentence: the meeting of this hat was killed with the end of this car !
+ID: 249, Rank: 2, Sentence: the meeting of this hat was killed with the end of this day !
+ID: 250, Rank: 0, Sentence: they don &apos;t &apos;re on the right .
+ID: 250, Rank: 1, Sentence: they don &apos;t &apos;re in the .
+ID: 250, Rank: 2, Sentence: they don &apos;t &apos;re on the .
+ID: 251, Rank: 0, Sentence: she took up down her to turn up .
+ID: 251, Rank: 1, Sentence: she took up down her to turn him .
+ID: 251, Rank: 2, Sentence: she took up down her to learn .
+ID: 252, Rank: 0, Sentence: the the name was leaving now , and the cat .
+ID: 252, Rank: 1, Sentence: the the name was leaving now , and the cat , and the cat , and the cat in the French .
+ID: 252, Rank: 2, Sentence: the the name was leaving now , and the cat , and the cat , and the cat , and the cat , and the cat went into the world and the cat .
+ID: 253, Rank: 0, Sentence: a little !
+ID: 253, Rank: 1, Sentence: a little !
+ID: 253, Rank: 2, Sentence: a little coffee ,
+ID: 254, Rank: 0, Sentence: you have to have a lot of questions for being an hour of being a man .
+ID: 254, Rank: 1, Sentence: you have to have a lot of questions for being an hour of being an got .
+ID: 254, Rank: 2, Sentence: you have to have a lot of questions for being an hour of being an got him .
+ID: 255, Rank: 0, Sentence: how many people is there in your class ?
+ID: 255, Rank: 1, Sentence: how many people is there in your head ?
+ID: 255, Rank: 2, Sentence: how many people is there in your head ?
+ID: 256, Rank: 0, Sentence: can I ask her who can ask ?
+ID: 256, Rank: 1, Sentence: can I ask her who ?
+ID: 256, Rank: 2, Sentence: can I ask him who ?
+ID: 257, Rank: 0, Sentence: if you don &apos;t take off , they can &apos;t like each other .
+ID: 257, Rank: 1, Sentence: if you don &apos;t take off , they can &apos;t are it .
+ID: 257, Rank: 2, Sentence: if you don &apos;t take off , they can &apos;t like each other , they are .
+ID: 258, Rank: 0, Sentence: at least , he is never working .
+ID: 258, Rank: 1, Sentence: at least , he is never working with a to get home .
+ID: 258, Rank: 2, Sentence: at least , he is never working with a to get home , he is never to have a cold at for me .
+ID: 259, Rank: 0, Sentence: a thing of much way , it was a small day .
+ID: 259, Rank: 1, Sentence: a thing of much way , it was a cold .
+ID: 259, Rank: 2, Sentence: a thing of much way , it was a small day , .
+ID: 260, Rank: 0, Sentence: I like English , but I can &apos;t talk well .
+ID: 260, Rank: 1, Sentence: I like English , but I can &apos;t talk to .
+ID: 260, Rank: 2, Sentence: I like English , but I can &apos;t talk to write .
+ID: 261, Rank: 0, Sentence: it won &apos;t do anything .
+ID: 261, Rank: 1, Sentence: it won &apos;t do anything anymore .
+ID: 261, Rank: 2, Sentence: it won &apos;t do anything anything .
+ID: 262, Rank: 0, Sentence: she has the most more better of the most one who will find the best of the world .
+ID: 262, Rank: 1, Sentence: she has the most more better of the most one who will find the best of everybody .
+ID: 262, Rank: 2, Sentence: she has the most more better of the most one who will find the best of the world is everybody .
+ID: 263, Rank: 0, Sentence: please give yourself or the train .
+ID: 263, Rank: 1, Sentence: please give yourself or the train ?
+ID: 263, Rank: 2, Sentence: please give yourself or the train , you remember up ?
+ID: 264, Rank: 0, Sentence: we were a lot .
+ID: 264, Rank: 1, Sentence: we were a lot .
+ID: 264, Rank: 2, Sentence: we were a lot of water .
+ID: 265, Rank: 0, Sentence: Tom was a happy at my times .
+ID: 265, Rank: 1, Sentence: Tom was a happy at my right .
+ID: 265, Rank: 2, Sentence: Tom was a happy with that .
+ID: 266, Rank: 0, Sentence: she took down the floor of a look with a often .
+ID: 266, Rank: 1, Sentence: she took down the floor of a look with a look of a look at the kitchen .
+ID: 266, Rank: 2, Sentence: she took down the floor of a look with a look of a look at the kitchen .
+ID: 267, Rank: 0, Sentence: your never their much much .
+ID: 267, Rank: 1, Sentence: your never have many a lot of mind .
+ID: 267, Rank: 2, Sentence: your never have many a lot of mind .
+ID: 268, Rank: 0, Sentence: he doesn &apos;t like to go to go at the morning .
+ID: 268, Rank: 1, Sentence: he doesn &apos;t like to go to go at the morning of going to do something .
+ID: 268, Rank: 2, Sentence: he doesn &apos;t like to go to go at the morning of going to do something to do something .
+ID: 269, Rank: 0, Sentence: it was not in my daughter .
+ID: 269, Rank: 1, Sentence: it wasn &apos;t in my father wasn .
+ID: 269, Rank: 2, Sentence: it was not in my father wasn into my place .
+ID: 270, Rank: 0, Sentence: they don &apos;t want to get that won &apos;t .
+ID: 270, Rank: 1, Sentence: they don &apos;t want to get that won &apos;t .
+ID: 270, Rank: 2, Sentence: they don &apos;t want to get that won &apos;t be it .
+ID: 271, Rank: 0, Sentence: our house and we are talking and our house and we &apos;re talking .
+ID: 271, Rank: 1, Sentence: our house and we are talking and our house and we &apos;re talking with us .
+ID: 271, Rank: 2, Sentence: our house and we are talking and our house and we &apos;re talking with us . &apos;s
+ID: 272, Rank: 0, Sentence: Tom has been back for the job .
+ID: 272, Rank: 1, Sentence: Tom has been back for the job .
+ID: 272, Rank: 2, Sentence: Tom has been back for the floor Tom .
+ID: 273, Rank: 0, Sentence: it &apos;s cold cold .
+ID: 273, Rank: 1, Sentence: it is cold cold .
+ID: 273, Rank: 2, Sentence: it &apos;s cold cold away .
+ID: 274, Rank: 0, Sentence: I need a new question in a hurry .
+ID: 274, Rank: 1, Sentence: I need a new computer for a computer .
+ID: 274, Rank: 2, Sentence: I need a new question in a beautiful question .
+ID: 275, Rank: 0, Sentence: I must have to take you to your success for your success .
+ID: 275, Rank: 1, Sentence: I must have to take you to your success .
+ID: 275, Rank: 2, Sentence: I must have to take you to your success for your success ?
+ID: 276, Rank: 0, Sentence: she made him a him yet .
+ID: 276, Rank: 1, Sentence: she made him a him to him .
+ID: 276, Rank: 2, Sentence: she made him a him to him him .
+ID: 277, Rank: 0, Sentence: a dog has left to the leg .
+ID: 277, Rank: 1, Sentence: a dog has left to the leg of the leg .
+ID: 277, Rank: 2, Sentence: a dog has left to the leg of the mountain .
+ID: 278, Rank: 0, Sentence: the answer is still in the Japan for cake is true and the other country .
+ID: 278, Rank: 1, Sentence: the answer is still in the Japan for cake is true and the other country .
+ID: 278, Rank: 2, Sentence: the answer is still in the Japan for cake is true and the other country is still right .
+ID: 279, Rank: 0, Sentence: the of children are watching at the need of children .
+ID: 279, Rank: 1, Sentence: the of children are watching at the need of the kids .
+ID: 279, Rank: 2, Sentence: the of children are watching at the need of the way .
+ID: 280, Rank: 0, Sentence: do you don &apos;t know his name ?
+ID: 280, Rank: 1, Sentence: don &apos;t you know his name ?
+ID: 280, Rank: 2, Sentence: do you don &apos;t know his name is name ?
+ID: 281, Rank: 0, Sentence: there are nothing to talk about Tom about Tom .
+ID: 281, Rank: 1, Sentence: there are nothing to talk about Tom .
+ID: 281, Rank: 2, Sentence: there are nothing to talk about Tom to do with Tom .
+ID: 282, Rank: 0, Sentence: I looked around this , but I didn &apos;t seen up .
+ID: 282, Rank: 1, Sentence: I looked around this , but I didn &apos;t seen out before .
+ID: 282, Rank: 2, Sentence: I looked around this , but I didn &apos;t seen out before it saw .
+ID: 283, Rank: 0, Sentence: the France is on the France of the one .
+ID: 283, Rank: 1, Sentence: the France is on the France of the one box .
+ID: 283, Rank: 2, Sentence: the France is on the France of in all @-@ place in France .
+ID: 284, Rank: 0, Sentence: I love this car in this people .
+ID: 284, Rank: 1, Sentence: I love this car in this of it .
+ID: 284, Rank: 2, Sentence: I love this car in this of it .
+ID: 285, Rank: 0, Sentence: they want to see you dead .
+ID: 285, Rank: 1, Sentence: they want to see you dead too .
+ID: 285, Rank: 2, Sentence: they want to see you death to see .
+ID: 286, Rank: 0, Sentence: I like a lot of mine .
+ID: 286, Rank: 1, Sentence: I like a lot of mine to it .
+ID: 286, Rank: 2, Sentence: I like a lot of mine to mine .
+ID: 287, Rank: 0, Sentence: Tom was the have a year on it .
+ID: 287, Rank: 1, Sentence: Tom was the have a year on Tom .
+ID: 287, Rank: 2, Sentence: Tom was the have a year on the way .
+ID: 288, Rank: 0, Sentence: the like has been trying to get out of his feelings in the meeting with his don &apos;t have his feelings .
+ID: 288, Rank: 1, Sentence: the like has been trying to get out of his feelings in the meeting with his don &apos;t have his word on the world .
+ID: 288, Rank: 2, Sentence: the like has been trying to get out of his feelings in the meeting with his don &apos;t have his word on the future of his bag .
+ID: 289, Rank: 0, Sentence: how many time are you going to stay in Boston ?
+ID: 289, Rank: 1, Sentence: how many time are you going to stay into Boston ?
+ID: 289, Rank: 2, Sentence: how many time are you going to stay on Boston ?
+ID: 290, Rank: 0, Sentence: do I can use of this paper ?
+ID: 290, Rank: 1, Sentence: do I can use from this way ?
+ID: 290, Rank: 2, Sentence: do I can use of this train ?
+ID: 291, Rank: 0, Sentence: this class has been going to the boys and the girls .
+ID: 291, Rank: 1, Sentence: this class has been going to the boys and keep the girls .
+ID: 291, Rank: 2, Sentence: this class has been going to the boys and keep the girls and cat .
+ID: 292, Rank: 0, Sentence: &quot; heart and &quot; like &quot; &quot; like &quot; the same !
+ID: 292, Rank: 1, Sentence: &quot; heart and &quot; like &quot; &quot; like &quot; the same !
+ID: 292, Rank: 2, Sentence: &quot; heart and &quot; like &quot; &quot; like &quot; the same ! &quot;
+ID: 293, Rank: 0, Sentence: I &apos;m going to ask off not to buy up .
+ID: 293, Rank: 1, Sentence: I &apos;m going to ask off not to eat on that
+ID: 293, Rank: 2, Sentence: I &apos;m going to ask off not to eat on that
+ID: 294, Rank: 0, Sentence: I was too tired to get into the eyes in the eyes .
+ID: 294, Rank: 1, Sentence: I was too tired to get into the eyes in the eyes in class .
+ID: 294, Rank: 2, Sentence: I was too tired to get into the eyes in the eyes with them .
+ID: 295, Rank: 0, Sentence: I &apos;m glad with his hand .
+ID: 295, Rank: 1, Sentence: I &apos;m glad with his head .
+ID: 295, Rank: 2, Sentence: I &apos;m glad with his head &apos;s
+ID: 296, Rank: 0, Sentence: is your car on those ?
+ID: 296, Rank: 1, Sentence: is your car on those .
+ID: 296, Rank: 2, Sentence: is your car on they &apos;re going from ?
+ID: 297, Rank: 0, Sentence: the last thing I want to do that I want to do .
+ID: 297, Rank: 1, Sentence: the last thing I want to do that I want to do that again to tell you .
+ID: 297, Rank: 2, Sentence: the last thing I want to do that I want to do that again to make you .
+ID: 298, Rank: 0, Sentence: do you have some questions ?
+ID: 298, Rank: 1, Sentence: do you have any questions ?
+ID: 298, Rank: 2, Sentence: do you have any questions from questions ?
+ID: 299, Rank: 0, Sentence: I &apos;ll get there as as as as as as as as I can do .
+ID: 299, Rank: 1, Sentence: I &apos;ll get there as as as as as as as as I can be right .
+ID: 299, Rank: 2, Sentence: I &apos;ll get there as as as as as as as as I can be in there .
+ID: 300, Rank: 0, Sentence: she &apos;s wash the car .
+ID: 300, Rank: 1, Sentence: she &apos;s my car .
+ID: 300, Rank: 2, Sentence: she &apos;s wash the car of myself .
+ID: 301, Rank: 0, Sentence: please get this one will get out of the words .
+ID: 301, Rank: 1, Sentence: please get this one will get out of words .
+ID: 301, Rank: 2, Sentence: please get this one will get out of words .
+ID: 302, Rank: 0, Sentence: I can &apos;t leave you go out for all of there alone .
+ID: 302, Rank: 1, Sentence: I can &apos;t leave you go out for all of all alone .
+ID: 302, Rank: 2, Sentence: I can &apos;t leave you go out for all of there alone alone .
+ID: 303, Rank: 0, Sentence: don &apos;t tell you not . it &apos;s completely to me .
+ID: 303, Rank: 1, Sentence: don &apos;t tell you not . it &apos;s completely to me about you .
+ID: 303, Rank: 2, Sentence: don &apos;t tell you not . it &apos;s completely to me about .
+ID: 304, Rank: 0, Sentence: please take the his head , please .
+ID: 304, Rank: 1, Sentence: please take the his advice .
+ID: 304, Rank: 2, Sentence: please take the his head , I &apos;ll please .
+ID: 305, Rank: 0, Sentence: do you have any chance ?
+ID: 305, Rank: 1, Sentence: do you have any chance ?
+ID: 305, Rank: 2, Sentence: do you have any light in touch ?
+ID: 306, Rank: 0, Sentence: a job has four four in a four did .
+ID: 306, Rank: 1, Sentence: a job has four four in a few did to keep up a hurry .
+ID: 306, Rank: 2, Sentence: a job has four four in a few did to keep up the get .
+ID: 307, Rank: 0, Sentence: what &apos;s the idea ?
+ID: 307, Rank: 1, Sentence: what is the idea ?
+ID: 307, Rank: 2, Sentence: what &apos;s the idea of this idea ?
+ID: 308, Rank: 0, Sentence: in more more , that she was an honest , she was a better man .
+ID: 308, Rank: 1, Sentence: in more more , that she was an honest , she was a better to be .
+ID: 308, Rank: 2, Sentence: in more more , that she was an honest , she was a better to be a rich on man .
+ID: 309, Rank: 0, Sentence: this is a complete one .
+ID: 309, Rank: 1, Sentence: this is a good way .
+ID: 309, Rank: 2, Sentence: this is a complete way from a .
+ID: 310, Rank: 0, Sentence: we need to give us again .
+ID: 310, Rank: 1, Sentence: we must give us .
+ID: 310, Rank: 2, Sentence: we need to give us us again .
+ID: 311, Rank: 0, Sentence: I forgot to tell him to tell him .
+ID: 311, Rank: 1, Sentence: I forgot to tell him .
+ID: 311, Rank: 2, Sentence: I forgot to tell him to tell her .
+ID: 312, Rank: 0, Sentence: what did you do with your camera with your camera ?
+ID: 312, Rank: 1, Sentence: what did you do with your camera ?
+ID: 312, Rank: 2, Sentence: what did you do with your camera with your born ?
+ID: 313, Rank: 0, Sentence: you can &apos;t tell you all your coffee away .
+ID: 313, Rank: 1, Sentence: you can &apos;t tell you more for your own one .
+ID: 313, Rank: 2, Sentence: you can &apos;t tell you all your future to tell your place .
+ID: 314, Rank: 0, Sentence: this movie is so where that the movie is so he &apos;s reading
+ID: 314, Rank: 1, Sentence: this movie is so where that the movie is so he &apos;s reading
+ID: 314, Rank: 2, Sentence: this movie is so where that the movie is so he &apos;s away .
+ID: 315, Rank: 0, Sentence: I thought you can be may .
+ID: 315, Rank: 1, Sentence: I thought you can be may maybe .
+ID: 315, Rank: 2, Sentence: I thought you might be may come .
+ID: 316, Rank: 0, Sentence: I went to the store in the store .
+ID: 316, Rank: 1, Sentence: I went to the store on the store .
+ID: 316, Rank: 2, Sentence: I went to the store of the store .
+ID: 317, Rank: 0, Sentence: his mother was looking forward to the get with them .
+ID: 317, Rank: 1, Sentence: his mother was looking forward to the get with her clothes with her are .
+ID: 317, Rank: 2, Sentence: his mother was looking forward to the get with her clothes with her are .
+ID: 318, Rank: 0, Sentence: he made the police on the the table in the sun of the United
+ID: 318, Rank: 1, Sentence: he made the police on the the table in the sun of the United
+ID: 318, Rank: 2, Sentence: he made the police on the the table in the sun of the way .
+ID: 319, Rank: 0, Sentence: the snow has turned down for a day @-@ day .
+ID: 319, Rank: 1, Sentence: the snow has turned down for a day @-@ day .
+ID: 319, Rank: 2, Sentence: the snow has turned down in a day of a day .
+ID: 320, Rank: 0, Sentence: I don &apos;t know if I can &apos;t stay .
+ID: 320, Rank: 1, Sentence: I don &apos;t know if I can &apos;t stay into .
+ID: 320, Rank: 2, Sentence: I don &apos;t know if I can &apos;t stay in this other .
+ID: 321, Rank: 0, Sentence: do you have more things as you won &apos;t help you .
+ID: 321, Rank: 1, Sentence: do you have more things as you won &apos;t help them .
+ID: 321, Rank: 2, Sentence: do you have more things as you won &apos;t help us .
+ID: 322, Rank: 0, Sentence: we asked me to get up the way .
+ID: 322, Rank: 1, Sentence: we asked me to get up the way of the plan .
+ID: 322, Rank: 2, Sentence: we asked me to get up the way of the only way .
+ID: 323, Rank: 0, Sentence: I &apos;m glad !
+ID: 323, Rank: 1, Sentence: I &apos;m so early !
+ID: 323, Rank: 2, Sentence: I &apos;m in a hurry !
+ID: 324, Rank: 0, Sentence: I didn &apos;t know why I had been to do that .
+ID: 324, Rank: 1, Sentence: I didn &apos;t know why I had been to do that to do that .
+ID: 324, Rank: 2, Sentence: I didn &apos;t know why I had been to do that to do it .
+ID: 325, Rank: 0, Sentence: I &apos;m going to go by there by there .
+ID: 325, Rank: 1, Sentence: I &apos;m going to go by there .
+ID: 325, Rank: 2, Sentence: I &apos;m going to go by there by there are
+ID: 326, Rank: 0, Sentence: I &apos;ve had a bike of them .
+ID: 326, Rank: 1, Sentence: I &apos;ve had a bike of homework .
+ID: 326, Rank: 2, Sentence: I &apos;ve had a bike of this .
+ID: 327, Rank: 0, Sentence: you should choose for a job with your opinion and get your opinion .
+ID: 327, Rank: 1, Sentence: you should choose for a job with your opinion and get your keys , a opinion .
+ID: 327, Rank: 2, Sentence: you should choose for a job with your opinion and get your opinion in his kiss and get married of your wife and come to see your hand and get married .
+ID: 328, Rank: 0, Sentence: you &apos;d better leave right now .
+ID: 328, Rank: 1, Sentence: you &apos;d better leave right now , I have .
+ID: 328, Rank: 2, Sentence: you &apos;d better leave right now , I &apos;ve better better for this .
+ID: 329, Rank: 0, Sentence: what do you think we get out of home ?
+ID: 329, Rank: 1, Sentence: what do you think we get out of the house ?
+ID: 329, Rank: 2, Sentence: what do you think we get out of my house ?
+ID: 330, Rank: 0, Sentence: I &apos;ve never seen my cat out of this cat .
+ID: 330, Rank: 1, Sentence: I &apos;ve never seen my cat away .
+ID: 330, Rank: 2, Sentence: I &apos;ve never seen my cat out of this cat there .
+ID: 331, Rank: 0, Sentence: you &apos;re a if you &apos;re sometimes tired .
+ID: 331, Rank: 1, Sentence: you &apos;re a if you have some me .
+ID: 331, Rank: 2, Sentence: you &apos;re a if you &apos;re very beautiful so in it .
+ID: 332, Rank: 0, Sentence: what does she bought on this store ?
+ID: 332, Rank: 1, Sentence: what does she bought the store ?
+ID: 332, Rank: 2, Sentence: what does she bought up at this store ?
+ID: 333, Rank: 0, Sentence: I &apos;m not one of a chance .
+ID: 333, Rank: 1, Sentence: I &apos;m not one of a thing .
+ID: 333, Rank: 2, Sentence: I &apos;m not a student .
+ID: 334, Rank: 0, Sentence: Tom has really to look a lot of times .
+ID: 334, Rank: 1, Sentence: Tom has really to look a lot of little much .
+ID: 334, Rank: 2, Sentence: Tom has really to look a lot of a lot of course .
+ID: 335, Rank: 0, Sentence: I love the don of his name from his name .
+ID: 335, Rank: 1, Sentence: I love the don of his name on his name .
+ID: 335, Rank: 2, Sentence: I love the way at his name .
+ID: 336, Rank: 0, Sentence: he was a bit mistake at all .
+ID: 336, Rank: 1, Sentence: he was a bit mistake at all .
+ID: 336, Rank: 2, Sentence: he was a bit mistake at a mistake .
+ID: 337, Rank: 0, Sentence: you should think about your future .
+ID: 337, Rank: 1, Sentence: you should think about your future in your future .
+ID: 337, Rank: 2, Sentence: you should think about your future in your future her .
+ID: 338, Rank: 0, Sentence: the mother has to take the use on the table .
+ID: 338, Rank: 1, Sentence: the mother has to take the back on the table .
+ID: 338, Rank: 2, Sentence: the mother has to take the look in the table .
+ID: 339, Rank: 0, Sentence: you &apos;re going to tell you .
+ID: 339, Rank: 1, Sentence: you &apos;re going to tell you that ?
+ID: 339, Rank: 2, Sentence: you &apos;re going to tell you that to yourself .
+ID: 340, Rank: 0, Sentence: mother is a mother of him to do a cake .
+ID: 340, Rank: 1, Sentence: mother is a mother of him to do a cake of him .
+ID: 340, Rank: 2, Sentence: mother is a mother of him to do a cake ?
+ID: 341, Rank: 0, Sentence: the music is the music of the teacher with work .
+ID: 341, Rank: 1, Sentence: the music is the music of young is music from all in the United
+ID: 341, Rank: 2, Sentence: the music is the music of young is music from all in the world .
+ID: 342, Rank: 0, Sentence: a little a little one is a bit teacher than a little one .
+ID: 342, Rank: 1, Sentence: a little a little one is a bit teacher than a little one is .
+ID: 342, Rank: 2, Sentence: a little a little one is a bit teacher than a little one is an only a little understand .
+ID: 343, Rank: 0, Sentence: how much do you help understand ?
+ID: 343, Rank: 1, Sentence: how much do you pay out much time ?
+ID: 343, Rank: 2, Sentence: how much do you pay out for books ?
+ID: 344, Rank: 0, Sentence: let your gun .
+ID: 344, Rank: 1, Sentence: let your gun your gun .
+ID: 344, Rank: 2, Sentence: let your gun up .
+ID: 345, Rank: 0, Sentence: the boys have a lot of have .
+ID: 345, Rank: 1, Sentence: the boys have a lot of people .
+ID: 345, Rank: 2, Sentence: the boys have a lot of the them .
+ID: 346, Rank: 0, Sentence: she doesn &apos;t have to make right now .
+ID: 346, Rank: 1, Sentence: she doesn &apos;t have to make right now with you .
+ID: 346, Rank: 2, Sentence: she doesn &apos;t have to make right now you .
+ID: 347, Rank: 0, Sentence: thank you for you to be careful .
+ID: 347, Rank: 1, Sentence: thank you for you to be some hurt .
+ID: 347, Rank: 2, Sentence: thank you for you to be some fun .
+ID: 348, Rank: 0, Sentence: she made me some to him out of it .
+ID: 348, Rank: 1, Sentence: she made me some to him out of the .
+ID: 348, Rank: 2, Sentence: she made me some to him out of the future .
+ID: 349, Rank: 0, Sentence: he said that we had to do that anymore .
+ID: 349, Rank: 1, Sentence: he said that we had to do .
+ID: 349, Rank: 2, Sentence: he said that we had to do that you &apos;re talking of now .
+ID: 350, Rank: 0, Sentence: this father has a very of chance out .
+ID: 350, Rank: 1, Sentence: this father has a very of chance out .
+ID: 350, Rank: 2, Sentence: this father has a very of chance on it is a very good .
+ID: 351, Rank: 0, Sentence: do you mind something of a thing ?
+ID: 351, Rank: 1, Sentence: do you mind something of a thing ?
+ID: 351, Rank: 2, Sentence: do you mind something of this ?
+ID: 352, Rank: 0, Sentence: this kind of living , this way to be able to be careful .
+ID: 352, Rank: 1, Sentence: this kind of living , this way to be able to be careful yet .
+ID: 352, Rank: 2, Sentence: this kind of living , this way to be able to be careful yet to be .
+ID: 353, Rank: 0, Sentence: there &apos;s something I have to do something alone .
+ID: 353, Rank: 1, Sentence: there &apos;s something I have to do something .
+ID: 353, Rank: 2, Sentence: there &apos;s something I have to do something alone must do alone .
+ID: 354, Rank: 0, Sentence: how is the time where you think it &apos;s time for you ?
+ID: 354, Rank: 1, Sentence: how is the time where you think it &apos;s time you ?
+ID: 354, Rank: 2, Sentence: how is the time where you think that you are ?
+ID: 355, Rank: 0, Sentence: there are really a really right to you go to Boston .
+ID: 355, Rank: 1, Sentence: there are really a really right to you go to go to Boston .
+ID: 355, Rank: 2, Sentence: there are really a really right to you go to Boston on Boston .
+ID: 356, Rank: 0, Sentence: I lost the of time .
+ID: 356, Rank: 1, Sentence: I lost the of time for a of time .
+ID: 356, Rank: 2, Sentence: I lost the of time for a of time .
+ID: 357, Rank: 0, Sentence: I want you to get with me .
+ID: 357, Rank: 1, Sentence: I want you to come with me .
+ID: 357, Rank: 2, Sentence: I want you to come with me if you want to go with me .
+ID: 358, Rank: 0, Sentence: I can go there next week next week .
+ID: 358, Rank: 1, Sentence: I can go there next week to go next week .
+ID: 358, Rank: 2, Sentence: I can go there next week at the week .
+ID: 359, Rank: 0, Sentence: she took off the children of children .
+ID: 359, Rank: 1, Sentence: she took off the children of children .
+ID: 359, Rank: 2, Sentence: she took off the children of the children .
+ID: 360, Rank: 0, Sentence: I read a letter .
+ID: 360, Rank: 1, Sentence: I read a letter to a letter .
+ID: 360, Rank: 2, Sentence: I read a letter to go out .
+ID: 361, Rank: 0, Sentence: this doctor has been going to get a hard life in life .
+ID: 361, Rank: 1, Sentence: this doctor has been going to get a hard life in life of the meeting .
+ID: 361, Rank: 2, Sentence: this doctor has been going to get a hard life in life of the meeting of the don a hand .
+ID: 362, Rank: 0, Sentence: you &apos;ll take one who will get up .
+ID: 362, Rank: 1, Sentence: you &apos;ll take one who will get up on it .
+ID: 362, Rank: 2, Sentence: you &apos;ll take that who was a student on him .
+ID: 363, Rank: 0, Sentence: she left the cat on him .
+ID: 363, Rank: 1, Sentence: she left the cat on it left the fire .
+ID: 363, Rank: 2, Sentence: she left the cat on it left the wrong of the future .
+ID: 364, Rank: 0, Sentence: I don &apos;t want to lose Mary .
+ID: 364, Rank: 1, Sentence: I don &apos;t want to lose Mary I don &apos;t want Mary to .
+ID: 364, Rank: 2, Sentence: I don &apos;t want to lose Mary I don &apos;t want Mary to do .
+ID: 365, Rank: 0, Sentence: I &apos;ll wait out in the meeting .
+ID: 365, Rank: 1, Sentence: I &apos;ll wait out in the place .
+ID: 365, Rank: 2, Sentence: I &apos;ll wait out in the hurry .
+ID: 366, Rank: 0, Sentence: the most day of the most door is &quot; as Tatoeba .
+ID: 366, Rank: 1, Sentence: the most day of the most door is &quot; as Tatoeba . &quot;
+ID: 366, Rank: 2, Sentence: the most day of the most door is &quot; as Tatoeba !
+ID: 367, Rank: 0, Sentence: I want to eat you to eat .
+ID: 367, Rank: 1, Sentence: I want to eat you to eat you .
+ID: 367, Rank: 2, Sentence: I want to eat you already ?
+ID: 368, Rank: 0, Sentence: don &apos;t have enough of correct .
+ID: 368, Rank: 1, Sentence: don &apos;t have enough right to tears .
+ID: 368, Rank: 2, Sentence: don &apos;t have enough right to tears .
+ID: 369, Rank: 0, Sentence: don &apos;t need to do this sentence .
+ID: 369, Rank: 1, Sentence: don &apos;t need to do this sentence . I &apos;m afraid of them .
+ID: 369, Rank: 2, Sentence: don &apos;t need to do this sentence . I &apos;m afraid of this .
+ID: 370, Rank: 0, Sentence: Tom was on the time .
+ID: 370, Rank: 1, Sentence: Tom was on the time on time .
+ID: 370, Rank: 2, Sentence: Tom was on the time at time .
+ID: 371, Rank: 0, Sentence: I think it &apos;ll do it now .
+ID: 371, Rank: 1, Sentence: I think it &apos;ll do it to get it .
+ID: 371, Rank: 2, Sentence: I think it &apos;ll do it to get it for him .
+ID: 372, Rank: 0, Sentence: you should get back to the same all day .
+ID: 372, Rank: 1, Sentence: you should get back to the same all the day .
+ID: 372, Rank: 2, Sentence: you should get back to the same all day for them .
+ID: 373, Rank: 0, Sentence: I &apos;m sorry of not you when you need to ask up .
+ID: 373, Rank: 1, Sentence: I &apos;m sorry of not you when you need to ask them .
+ID: 373, Rank: 2, Sentence: I &apos;m sorry of not you when you need to help her .
+ID: 374, Rank: 0, Sentence: in bed !
+ID: 374, Rank: 1, Sentence: in bed .
+ID: 374, Rank: 2, Sentence: in bed to bed !
+ID: 375, Rank: 0, Sentence: she seems to have everything about her alone .
+ID: 375, Rank: 1, Sentence: she seems to have everything about that alone .
+ID: 375, Rank: 2, Sentence: she seems to have everything about her alone again .
+ID: 376, Rank: 0, Sentence: everyone is hate the world .
+ID: 376, Rank: 1, Sentence: everyone is hate for you .
+ID: 376, Rank: 2, Sentence: everyone is hate the world of you .
+ID: 377, Rank: 0, Sentence: we &apos;ll make there again of a job .
+ID: 377, Rank: 1, Sentence: we &apos;ll make there again of a year .
+ID: 377, Rank: 2, Sentence: we &apos;ll make there again of a year .
+ID: 378, Rank: 0, Sentence: this is not only one .
+ID: 378, Rank: 1, Sentence: this is not only one .
+ID: 378, Rank: 2, Sentence: this is not only one of it doesn &apos;t work , but that thing .
+ID: 379, Rank: 0, Sentence: &quot; were you what I &apos;ve heard ? &quot;
+ID: 379, Rank: 1, Sentence: &quot; were you what I &apos;ve heard ?
+ID: 379, Rank: 2, Sentence: &quot; were you what I &apos;ve heard ? &quot; &quot; I &apos;ve got out their people .
+ID: 380, Rank: 0, Sentence: you &apos;re trying to do anything .
+ID: 380, Rank: 1, Sentence: you &apos;re trying to do that .
+ID: 380, Rank: 2, Sentence: you &apos;re trying to do that now .
+ID: 381, Rank: 0, Sentence: it &apos;s not my best of .
+ID: 381, Rank: 1, Sentence: it &apos;s not my best of my new game .
+ID: 381, Rank: 2, Sentence: it &apos;s not my best of my new game .
+ID: 382, Rank: 0, Sentence: do you want to get up .
+ID: 382, Rank: 1, Sentence: do you want to get up , or would you go out and any are them ?
+ID: 382, Rank: 2, Sentence: do you want to get up , or would you go out and any are them ?
+ID: 383, Rank: 0, Sentence: I &apos;m so tired to you so early .
+ID: 383, Rank: 1, Sentence: I &apos;m so tired to you so much .
+ID: 383, Rank: 2, Sentence: I &apos;m so tired to you so much ?
+ID: 384, Rank: 0, Sentence: all you must do this ?
+ID: 384, Rank: 1, Sentence: all you have to do , it is true .
+ID: 384, Rank: 2, Sentence: all you have to do , it &apos;s to do this sentence .
+ID: 385, Rank: 0, Sentence: you can &apos;t go to the meeting you to see you .
+ID: 385, Rank: 1, Sentence: you can &apos;t go to the meeting you to see you this .
+ID: 385, Rank: 2, Sentence: you can &apos;t go to the meeting you to see you that .
+ID: 386, Rank: 0, Sentence: you &apos;re more than Mary than Mary .
+ID: 386, Rank: 1, Sentence: you &apos;re more than Mary .
+ID: 386, Rank: 2, Sentence: you &apos;re more beautiful than Mary .
+ID: 387, Rank: 0, Sentence: I want you to get out of the about .
+ID: 387, Rank: 1, Sentence: I want you to get out of the about .
+ID: 387, Rank: 2, Sentence: I want you to get out of the money .
+ID: 388, Rank: 0, Sentence: Tom is a famous Tom .
+ID: 388, Rank: 1, Sentence: Tom is a famous Tom is .
+ID: 388, Rank: 2, Sentence: Tom is a famous Tom is out .
+ID: 389, Rank: 0, Sentence: I &apos;m not big !
+ID: 389, Rank: 1, Sentence: I &apos;m not big !
+ID: 389, Rank: 2, Sentence: I &apos;m not fat !
+ID: 390, Rank: 0, Sentence: I &apos;m really really right .
+ID: 390, Rank: 1, Sentence: I &apos;m really really right of that .
+ID: 390, Rank: 2, Sentence: I &apos;m really really right of this , .
+ID: 391, Rank: 0, Sentence: I have no idea what we &apos;re supposed to do .
+ID: 391, Rank: 1, Sentence: I have no idea what we &apos;re can do .
+ID: 391, Rank: 2, Sentence: I have no idea what we are doing to do .
+ID: 392, Rank: 0, Sentence: Tom doesn &apos;t want the same thing .
+ID: 392, Rank: 1, Sentence: Tom doesn &apos;t want the same thing to buy .
+ID: 392, Rank: 2, Sentence: Tom doesn &apos;t want the same thing to get anything .
+ID: 393, Rank: 0, Sentence: she took off off her rich in her room .
+ID: 393, Rank: 1, Sentence: she took off off her rich in her class .
+ID: 393, Rank: 2, Sentence: she took off off her rich in his rich .
+ID: 394, Rank: 0, Sentence: do you have a ticket ?
+ID: 394, Rank: 1, Sentence: do you have a ticket ?
+ID: 394, Rank: 2, Sentence: do you have a light ticket ?
+ID: 395, Rank: 0, Sentence: the boy will get out at my window at a window last .
+ID: 395, Rank: 1, Sentence: the boy will get out at my window at a window last .
+ID: 395, Rank: 2, Sentence: the boy will get out at my window at a window last .
+ID: 396, Rank: 0, Sentence: he is a bit of care of his work on his work .
+ID: 396, Rank: 1, Sentence: he is a bit of care of his work on his job .
+ID: 396, Rank: 2, Sentence: he is a bit of care of his work on her work .
+ID: 397, Rank: 0, Sentence: there &apos;s a lot of money .
+ID: 397, Rank: 1, Sentence: there &apos;s a lot of money in there .
+ID: 397, Rank: 2, Sentence: there &apos;s a lot of money money .
+ID: 398, Rank: 0, Sentence: I &apos;m not afraid of the future .
+ID: 398, Rank: 1, Sentence: I &apos;m not afraid of the wrong .
+ID: 398, Rank: 2, Sentence: I &apos;m not afraid of the wrong .
+ID: 399, Rank: 0, Sentence: a little one is in the meeting .
+ID: 399, Rank: 1, Sentence: a little one is in the aren .
+ID: 399, Rank: 2, Sentence: a little one is in the meeting with a .
+ID: 400, Rank: 0, Sentence: who did you get him ?
+ID: 400, Rank: 1, Sentence: who did you get off him ?
+ID: 400, Rank: 2, Sentence: who did you get the way ?
+ID: 401, Rank: 0, Sentence: in the door will make the door .
+ID: 401, Rank: 1, Sentence: in the door will make the door .
+ID: 401, Rank: 2, Sentence: in the door will make the door of a look .
+ID: 402, Rank: 0, Sentence: it was a complete time .
+ID: 402, Rank: 1, Sentence: it was a complete being a job .
+ID: 402, Rank: 2, Sentence: it was a complete being a student .
+ID: 403, Rank: 0, Sentence: he can come to come when he can come .
+ID: 403, Rank: 1, Sentence: he can come to come when he can come in when it .
+ID: 403, Rank: 2, Sentence: he can come to come when he can come in when it &apos;s going to come .
+ID: 404, Rank: 0, Sentence: seen from the saw , this watch is very beautiful .
+ID: 404, Rank: 1, Sentence: seen from the saw , this girls seems very beautiful .
+ID: 404, Rank: 2, Sentence: seen from the saw , this girls is very beautiful .
+ID: 405, Rank: 0, Sentence: I &apos;m a friend friend .
+ID: 405, Rank: 1, Sentence: I &apos;m a friend friend of a friend .
+ID: 405, Rank: 2, Sentence: I &apos;m a friend friend from a friend .
+ID: 406, Rank: 0, Sentence: it &apos;s what I can do .
+ID: 406, Rank: 1, Sentence: it &apos;s what I wonder to do that I &apos;ll do you .
+ID: 406, Rank: 2, Sentence: it &apos;s what I wonder to do that I &apos;ll do .
+ID: 407, Rank: 0, Sentence: please get remember to this .
+ID: 407, Rank: 1, Sentence: please get remember to it .
+ID: 407, Rank: 2, Sentence: please get remember to it again .
+ID: 408, Rank: 0, Sentence: is this your wife ?
+ID: 408, Rank: 1, Sentence: is that your wife ?
+ID: 408, Rank: 2, Sentence: is it your wife ?
+ID: 409, Rank: 0, Sentence: I &apos;m poor .
+ID: 409, Rank: 1, Sentence: I &apos;m so poor .
+ID: 409, Rank: 2, Sentence: I &apos;m so cute .
+ID: 410, Rank: 0, Sentence: I don &apos;t like your father .
+ID: 410, Rank: 1, Sentence: I don &apos;t like your mind to your mind .
+ID: 410, Rank: 2, Sentence: I don &apos;t like your mind to your car .
+ID: 411, Rank: 0, Sentence: I want to leave Paris .
+ID: 411, Rank: 1, Sentence: I want to leave Paris Paris to learn late .
+ID: 411, Rank: 2, Sentence: I want to leave Paris Paris to learn up .
+ID: 412, Rank: 0, Sentence: a job was killed .
+ID: 412, Rank: 1, Sentence: a old was killed that was killed .
+ID: 412, Rank: 2, Sentence: a nice was killed that was killed .
+ID: 413, Rank: 0, Sentence: I have a few cup of questions in order .
+ID: 413, Rank: 1, Sentence: I have a few @-@ few new days on .
+ID: 413, Rank: 2, Sentence: I have a few cup of give @-@ good give of to make .
+ID: 414, Rank: 0, Sentence: I can get a bit of money , if you need .
+ID: 414, Rank: 1, Sentence: I can get a bit of money if you need .
+ID: 414, Rank: 2, Sentence: I can get a bit of money , if you need him .
+ID: 415, Rank: 0, Sentence: do it do this go out of here .
+ID: 415, Rank: 1, Sentence: do it do this go out of here ?
+ID: 415, Rank: 2, Sentence: do the right from here .
+ID: 416, Rank: 0, Sentence: do you want me to help you ?
+ID: 416, Rank: 1, Sentence: do you want to help me ?
+ID: 416, Rank: 2, Sentence: do you want me to help you to help you ?
+ID: 417, Rank: 0, Sentence: I &apos;ve got a shower to make a hot teacher .
+ID: 417, Rank: 1, Sentence: I &apos;ve got a shower to make a hot teacher .
+ID: 417, Rank: 2, Sentence: I &apos;ve got a shower to make a hot hotel .
+ID: 418, Rank: 0, Sentence: many students have the floor of the future of the sun in the way .
+ID: 418, Rank: 1, Sentence: many students have the floor of the future of the sun in the way to speak .
+ID: 418, Rank: 2, Sentence: many students have the floor of the future of the sun in the way to speak .
+ID: 419, Rank: 0, Sentence: call me when you want me to want .
+ID: 419, Rank: 1, Sentence: call me when you want me .
+ID: 419, Rank: 2, Sentence: call me when you want me to want to .
+ID: 420, Rank: 0, Sentence: it &apos;s the house in the house when he was child .
+ID: 420, Rank: 1, Sentence: it &apos;s the house in the house when he was child to work .
+ID: 420, Rank: 2, Sentence: it &apos;s the house in the house when he was child to a child .
+ID: 421, Rank: 0, Sentence: let &apos;s go to the same place from him .
+ID: 421, Rank: 1, Sentence: let &apos;s go to the same place in love .
+ID: 421, Rank: 2, Sentence: let &apos;s go to the same place from going for a
+ID: 422, Rank: 0, Sentence: Tom plays the world after the saw after three times a week .
+ID: 422, Rank: 1, Sentence: Tom plays the world after the saw after three times three week .
+ID: 422, Rank: 2, Sentence: Tom plays the world after the saw after three times in school .
+ID: 423, Rank: 0, Sentence: I think it &apos;s time for I want to let it before that &apos;s
+ID: 423, Rank: 1, Sentence: I think it &apos;s time for I want to let it by this place .
+ID: 423, Rank: 2, Sentence: I think it &apos;s time for I want to let it before this place .
+ID: 424, Rank: 0, Sentence: why are you going to get out of a little care of you ?
+ID: 424, Rank: 1, Sentence: why are you going to get out of a little care of yourself ?
+ID: 424, Rank: 2, Sentence: why are you going to get out of a bit will you take that ?
+ID: 425, Rank: 0, Sentence: I worked hard hard , but don &apos;t be in anything with them .
+ID: 425, Rank: 1, Sentence: I worked hard hard , but don &apos;t be in anything with us .
+ID: 425, Rank: 2, Sentence: I worked hard hard , but don &apos;t be in anything with you .
+ID: 426, Rank: 0, Sentence: someone must have a hurry to the news of his mother .
+ID: 426, Rank: 1, Sentence: someone must have a hurry to the end of his mother .
+ID: 426, Rank: 2, Sentence: someone must have a hurry to the news of her mother .
+ID: 427, Rank: 0, Sentence: this coffee is the eat !
+ID: 427, Rank: 1, Sentence: this coffee is the eat !
+ID: 427, Rank: 2, Sentence: this coffee is the dictionary down this coffee .
+ID: 428, Rank: 0, Sentence: he is bit better than I &apos;m bit .
+ID: 428, Rank: 1, Sentence: he is bit better than I &apos;m bit for it .
+ID: 428, Rank: 2, Sentence: he is bit better than I &apos;m bit for that .
+ID: 429, Rank: 0, Sentence: I &apos;ll tell you that you like to get up .
+ID: 429, Rank: 1, Sentence: I &apos;ll tell you that you like to get me like a second
+ID: 429, Rank: 2, Sentence: I &apos;ll tell you that you like to get me like a meeting
+ID: 430, Rank: 0, Sentence: the fish didn &apos;t see today .
+ID: 430, Rank: 1, Sentence: the fish didn &apos;t see today today .
+ID: 430, Rank: 2, Sentence: the fish didn &apos;t see today . is that done .
+ID: 431, Rank: 0, Sentence: what are there as ?
+ID: 431, Rank: 1, Sentence: what are there like ?
+ID: 431, Rank: 2, Sentence: what are there as there is there ?
+ID: 432, Rank: 0, Sentence: I need a drink .
+ID: 432, Rank: 1, Sentence: I need a drink to need .
+ID: 432, Rank: 2, Sentence: I need a drink to need me .
+ID: 433, Rank: 0, Sentence: are you sure in ?
+ID: 433, Rank: 1, Sentence: are you tired to were in a mistake ?
+ID: 433, Rank: 2, Sentence: are you tired to were in a mistake ?
+ID: 434, Rank: 0, Sentence: the snow has cost out .
+ID: 434, Rank: 1, Sentence: the snow has cost out her &apos;s
+ID: 434, Rank: 2, Sentence: the snow has cost out her &apos;s
+ID: 435, Rank: 0, Sentence: I suppose it &apos;s sick when you &apos;ll come there .
+ID: 435, Rank: 1, Sentence: I guess it &apos;s sick when you &apos;ll come there .
+ID: 435, Rank: 2, Sentence: I suppose it &apos;s sick when you &apos;ll come there alone .
+ID: 436, Rank: 0, Sentence: it &apos;s a difference , isn &apos;t it ?
+ID: 436, Rank: 1, Sentence: it &apos;s a difference , weren &apos;t it ?
+ID: 436, Rank: 2, Sentence: it &apos;s a difference , didn &apos;t it ?
+ID: 437, Rank: 0, Sentence: the rain came to take your eyes of that eye of that one .
+ID: 437, Rank: 1, Sentence: the rain came to take your eyes of that eye of that one &apos;s at .
+ID: 437, Rank: 2, Sentence: the rain came to take your eyes of that eye of that one knows that of the eyes .
+ID: 438, Rank: 0, Sentence: Tom needs to do that now .
+ID: 438, Rank: 1, Sentence: Tom need to do that now .
+ID: 438, Rank: 2, Sentence: Tom needs to do this now .
+ID: 439, Rank: 0, Sentence: it &apos;s a good student is .
+ID: 439, Rank: 1, Sentence: it &apos;s a good student is cold .
+ID: 439, Rank: 2, Sentence: it &apos;s a good student is wrong .
+ID: 440, Rank: 0, Sentence: you don &apos;t have any little anything for me .
+ID: 440, Rank: 1, Sentence: you don &apos;t have any little thing for me .
+ID: 440, Rank: 2, Sentence: you don &apos;t have any little anything me .
+ID: 441, Rank: 0, Sentence: I &apos;m tired of reading for reading .
+ID: 441, Rank: 1, Sentence: I &apos;m tired of reading from reading .
+ID: 441, Rank: 2, Sentence: I &apos;m tired of reading from reading ?
+ID: 442, Rank: 0, Sentence: they can &apos;t help me what I want .
+ID: 442, Rank: 1, Sentence: they can &apos;t tell me what I want .
+ID: 442, Rank: 2, Sentence: they can &apos;t please .
+ID: 443, Rank: 0, Sentence: he has hope to see Paris .
+ID: 443, Rank: 1, Sentence: he has hope to see Paris to speak on Paris .
+ID: 443, Rank: 2, Sentence: he has hope to see Paris to speak French .
+ID: 444, Rank: 0, Sentence: seen , the girls of the go .
+ID: 444, Rank: 1, Sentence: seen , the girls of the go in a big get at a a a &apos;m of a great trip .
+ID: 444, Rank: 2, Sentence: seen , the girls of the go in a big get at a a a &apos;m of a great trip .
+ID: 445, Rank: 0, Sentence: do you have any less ?
+ID: 445, Rank: 1, Sentence: do you have any kind of danger ?
+ID: 445, Rank: 2, Sentence: do you have any kind of beautiful ?
+ID: 446, Rank: 0, Sentence: you have a lot of difficult to keep .
+ID: 446, Rank: 1, Sentence: you have a lot of difficult to keep it .
+ID: 446, Rank: 2, Sentence: you have a lot of difficult to keep it to keep .
+ID: 447, Rank: 0, Sentence: she lives in a hurry in a myself .
+ID: 447, Rank: 1, Sentence: she lives in a hurry at a myself .
+ID: 447, Rank: 2, Sentence: she lives in a hurry in a chance .
+ID: 448, Rank: 0, Sentence: the show out down to her myself .
+ID: 448, Rank: 1, Sentence: the show out down to her give .
+ID: 448, Rank: 2, Sentence: the show out down to her give up .
+ID: 449, Rank: 0, Sentence: the girls fell often are out of its friends in love with me .
+ID: 449, Rank: 1, Sentence: the girls fell often are out of its friends in love with her people and get into her eyes with eyes .
+ID: 449, Rank: 2, Sentence: the girls fell often are out of its friends in love with her people and get into her eyes with eyes .
+ID: 450, Rank: 0, Sentence: what is he lives in dog ?
+ID: 450, Rank: 1, Sentence: what is he arrived in dog .
+ID: 450, Rank: 2, Sentence: what is he arrived in dog with dog ?
+ID: 451, Rank: 0, Sentence: is this hurt ?
+ID: 451, Rank: 1, Sentence: is this hurt is free ?
+ID: 451, Rank: 2, Sentence: is this hurt is this ?
+ID: 452, Rank: 0, Sentence: I can &apos;t believe that you can understand this .
+ID: 452, Rank: 1, Sentence: I can &apos;t believe that you can understand her .
+ID: 452, Rank: 2, Sentence: I can &apos;t believe that you can understand this again .
+ID: 453, Rank: 0, Sentence: do you have any kind of mistakes ?
+ID: 453, Rank: 1, Sentence: do you have any kind of person ?
+ID: 453, Rank: 2, Sentence: do you have any kind of thinking ?
+ID: 454, Rank: 0, Sentence: you remember me your brother me your brother .
+ID: 454, Rank: 1, Sentence: you remember me your brother .
+ID: 454, Rank: 2, Sentence: you remember me your brother me your brother for me .
+ID: 455, Rank: 0, Sentence: does it come me ?
+ID: 455, Rank: 1, Sentence: does it come me ?
+ID: 455, Rank: 2, Sentence: does it come me !
+ID: 456, Rank: 0, Sentence: Layla his name of his name to her name .
+ID: 456, Rank: 1, Sentence: Layla his name of his name to his name .
+ID: 456, Rank: 2, Sentence: Layla his name of his name to his name for the .
+ID: 457, Rank: 0, Sentence: I don &apos;t have a ticket .
+ID: 457, Rank: 1, Sentence: I don &apos;t have a ticket . .
+ID: 457, Rank: 2, Sentence: I don &apos;t have a ticket . I don &apos;t have a ticket .
+ID: 458, Rank: 0, Sentence: I &apos;m very tired .
+ID: 458, Rank: 1, Sentence: I &apos;m very tired to meet it on time .
+ID: 458, Rank: 2, Sentence: I &apos;m very tired to meet it on a meeting .
+ID: 459, Rank: 0, Sentence: please give up the hard .
+ID: 459, Rank: 1, Sentence: please give up the way to the meeting to get it out .
+ID: 459, Rank: 2, Sentence: please give up the way to the meeting to get it on the way .
+ID: 460, Rank: 0, Sentence: I had the most way to my life to Boston .
+ID: 460, Rank: 1, Sentence: I had the most way to my life with Boston .
+ID: 460, Rank: 2, Sentence: I had the most way to my life to Boston on Boston .
+ID: 461, Rank: 0, Sentence: I saw him to look the food .
+ID: 461, Rank: 1, Sentence: I saw him on the fire my life .
+ID: 461, Rank: 2, Sentence: I saw him to look the game in the morning .
+ID: 462, Rank: 0, Sentence: how many are there any house there ?
+ID: 462, Rank: 1, Sentence: how many are there any house in your house ?
+ID: 462, Rank: 2, Sentence: how many are there any house in your house ?
+ID: 463, Rank: 0, Sentence: my little friend was crying .
+ID: 463, Rank: 1, Sentence: my little friend was crying with crying .
+ID: 463, Rank: 2, Sentence: my little friend was cry with it .
+ID: 464, Rank: 0, Sentence: do you often have the sleep .
+ID: 464, Rank: 1, Sentence: do you often have the hospital do that ?
+ID: 464, Rank: 2, Sentence: do you often have the hospital do that ?
+ID: 465, Rank: 0, Sentence: the floor was the last person is which the last person in the world which of the only one which .
+ID: 465, Rank: 1, Sentence: the floor was the last person is which the last person in the world which of the only one was the last person to know the last one which one was the last person of the last which nobody was going to know the the world to make .
+ID: 465, Rank: 2, Sentence: the floor was the last person is which the last person in the world which of the only one was the last person to know the last one which one was the last person of the last which nobody was going to know the the world to make .
+ID: 466, Rank: 0, Sentence: the movie was not so bad to it .
+ID: 466, Rank: 1, Sentence: the movie was not so bad right to they .
+ID: 466, Rank: 2, Sentence: the movie was not so bad right a thing .
+ID: 467, Rank: 0, Sentence: I learned how to play the police .
+ID: 467, Rank: 1, Sentence: I learned how to play the police .
+ID: 467, Rank: 2, Sentence: I learned how to play the girls from ten years old .
+ID: 468, Rank: 0, Sentence: I wonder where Tom and Mary are married .
+ID: 468, Rank: 1, Sentence: I wonder where Tom and Mary are come .
+ID: 468, Rank: 2, Sentence: I wonder where Tom and Mary are in .
+ID: 469, Rank: 0, Sentence: he will find his father everything to her father .
+ID: 469, Rank: 1, Sentence: he will find his father everything to her father all of it .
+ID: 469, Rank: 2, Sentence: he will find his father everything to her father all of them .
+ID: 470, Rank: 0, Sentence: what are you supposed to do ?
+ID: 470, Rank: 1, Sentence: what are you supposed to do right ?
+ID: 470, Rank: 2, Sentence: what are you supposed to do .
+ID: 471, Rank: 0, Sentence: &quot; were you what you did , &quot; .
+ID: 471, Rank: 1, Sentence: &quot; were you what you did , &quot; &quot; .
+ID: 471, Rank: 2, Sentence: &quot; were you what you did , &quot; &quot; of ?
+ID: 472, Rank: 0, Sentence: we &apos;ll go to the movies .
+ID: 472, Rank: 1, Sentence: we &apos;ll go to the movies of the meeting .
+ID: 472, Rank: 2, Sentence: we &apos;ll go to the movies of the world we go .
+ID: 473, Rank: 0, Sentence: do you know in there ?
+ID: 473, Rank: 1, Sentence: do you know in bed .
+ID: 473, Rank: 2, Sentence: do you know in any ?
+ID: 474, Rank: 0, Sentence: we &apos;ll find the rain in the world .
+ID: 474, Rank: 1, Sentence: we &apos;ll find the kitchen in the world .
+ID: 474, Rank: 2, Sentence: we &apos;ll find the kitchen in the world of the world .
+ID: 475, Rank: 0, Sentence: she didn &apos;t even say thank she .
+ID: 475, Rank: 1, Sentence: she didn &apos;t even say thank she didn &apos;t say it .
+ID: 475, Rank: 2, Sentence: she didn &apos;t even say thank she didn &apos;t .
+ID: 476, Rank: 0, Sentence: Tom could do that .
+ID: 476, Rank: 1, Sentence: Tom could do that could do that .
+ID: 476, Rank: 2, Sentence: Tom could do that I could do that .
+ID: 477, Rank: 0, Sentence: do you like to use it now ?
+ID: 477, Rank: 1, Sentence: do you like to use it now ?
+ID: 477, Rank: 2, Sentence: do you like to use it right ?
+ID: 478, Rank: 0, Sentence: what do you say to tell me ?
+ID: 478, Rank: 1, Sentence: what do you say to tell me .
+ID: 478, Rank: 2, Sentence: what do you say to do ?
+ID: 479, Rank: 0, Sentence: do you have any best ?
+ID: 479, Rank: 1, Sentence: do you have any friend ?
+ID: 479, Rank: 2, Sentence: do you have any kind of doing
+ID: 480, Rank: 0, Sentence: I don &apos;t remember that .
+ID: 480, Rank: 1, Sentence: I don &apos;t remember that to do that .
+ID: 480, Rank: 2, Sentence: I don &apos;t remember that to do that .
+ID: 481, Rank: 0, Sentence: this dress was out of the mind of this ?
+ID: 481, Rank: 1, Sentence: this dress was out of the mind of this ?
+ID: 481, Rank: 2, Sentence: this dress was out of the mind of this ?
+ID: 482, Rank: 0, Sentence: you &apos;re in love .
+ID: 482, Rank: 1, Sentence: you &apos;re in love with you .
+ID: 482, Rank: 2, Sentence: you &apos;re in love with you are ?
+ID: 483, Rank: 0, Sentence: I &apos;m lucky to have you as friend .
+ID: 483, Rank: 1, Sentence: I &apos;m lucky .
+ID: 483, Rank: 2, Sentence: I &apos;m lucky to have you as hard as friend .
+ID: 484, Rank: 0, Sentence: she is a hurry .
+ID: 484, Rank: 1, Sentence: she is a hurry with her .
+ID: 484, Rank: 2, Sentence: she is a hurry with her !
+ID: 485, Rank: 0, Sentence: I &apos;m sorry , I couldn &apos;t hear you .
+ID: 485, Rank: 1, Sentence: I &apos;m sorry , I didn &apos;t hear you .
+ID: 485, Rank: 2, Sentence: I &apos;m sorry , I didn &apos;t hear you like hear .
+ID: 486, Rank: 0, Sentence: I read that the most woman of a woman .
+ID: 486, Rank: 1, Sentence: I read that the most woman of a woman . it &apos;s a beautiful woman .
+ID: 486, Rank: 2, Sentence: I read that the most woman of a woman . it &apos;s a beautiful woman .
+ID: 487, Rank: 0, Sentence: you &apos;re all in a just be a few questions !
+ID: 487, Rank: 1, Sentence: you &apos;re all in a just be a bit thing .
+ID: 487, Rank: 2, Sentence: you &apos;re all in a just be a bit thing .
+ID: 488, Rank: 0, Sentence: I &apos;ve already done the way of what to be done .
+ID: 488, Rank: 1, Sentence: I &apos;ve already done the way of what needs to be done .
+ID: 488, Rank: 2, Sentence: I &apos;ve already done the way of what must be done .
+ID: 489, Rank: 0, Sentence: the boy tried to get the boy of the floor .
+ID: 489, Rank: 1, Sentence: the boy tried to get the boy of the floor .
+ID: 489, Rank: 2, Sentence: the boy tried to get the boy of the boy of the .
+ID: 490, Rank: 0, Sentence: the train is in the train .
+ID: 490, Rank: 1, Sentence: the train is in the train of face .
+ID: 490, Rank: 2, Sentence: the train is in the train of the train .
+ID: 491, Rank: 0, Sentence: I heard that you were good French in French .
+ID: 491, Rank: 1, Sentence: I heard that you were good in French .
+ID: 491, Rank: 2, Sentence: I heard you were good French in French .
+ID: 492, Rank: 0, Sentence: there were no one of this .
+ID: 492, Rank: 1, Sentence: there were no one of this .
+ID: 492, Rank: 2, Sentence: there were no one of the aren here .
+ID: 493, Rank: 0, Sentence: if you know you can tell me how you have already told me .
+ID: 493, Rank: 1, Sentence: if you know you can tell me how you have ever met me a bad like the a little the a bad .
+ID: 493, Rank: 2, Sentence: if you know you can tell me how you have ever met me a bad like the a little the a bad .
+ID: 494, Rank: 0, Sentence: you should have to help you at once .
+ID: 494, Rank: 1, Sentence: you should have to help you about your family .
+ID: 494, Rank: 2, Sentence: you should have to help you about this in his back .
+ID: 495, Rank: 0, Sentence: we is young than one time .
+ID: 495, Rank: 1, Sentence: we is young than one time to .
+ID: 495, Rank: 2, Sentence: we is young than one time to the time .
+ID: 496, Rank: 0, Sentence: please give me the address .
+ID: 496, Rank: 1, Sentence: please give me the address to me .
+ID: 496, Rank: 2, Sentence: please give me the address to me to them .
+ID: 497, Rank: 0, Sentence: I need to know your answer for you to get married .
+ID: 497, Rank: 1, Sentence: I need to know your answer for you to tell your answer for him .
+ID: 497, Rank: 2, Sentence: I need to know your answer for you to tell your answer to .
+ID: 498, Rank: 0, Sentence: let !
+ID: 498, Rank: 1, Sentence: let &apos;s keep up .
+ID: 498, Rank: 2, Sentence: let &apos;s keep up .
+ID: 499, Rank: 0, Sentence: he has no longer longer but any other longer .
+ID: 499, Rank: 1, Sentence: he has no longer longer but any other longer of each other .
+ID: 499, Rank: 2, Sentence: he has no longer longer but any other longer of each other of .
